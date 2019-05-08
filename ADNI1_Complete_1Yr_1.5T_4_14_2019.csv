@@ -5,6 +5,3 @@ ADNI_141_S_1152.nii,102067,141_S_1152,AD,F,73,4,MRI,MPR-R; GradWarp; B1 Correcti
 ADNI_127_S_1382.nii,81423,127_S_1382,AD,M,65,3,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,10/19/2007,NiFTI,
 ADNI_136_S_1227.nii,99279,136_S_1227,MCI,F,66,4,MRI,MPR-R; GradWarp; B1 Correction; N3; Scaled,Processed,03-06-2008,NiFTI,
 ADNI_128_S_1242.nii,90623,128_S_1242,CN,F,72,3,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,8/16/2007,NiFTI,
-ADNI_128_S_0947.nii,69073,128_S_0947,MCI,F,83,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,10-06-2006,NiFTI,
-ADNI_128_S_0863.nii,98875,128_S_0863,CN,M,79,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,9/25/2006,NiFTI,
-ADNI_127_S_0844.nii,34471,127_S_0844,AD,F,85,1,MRI,MPR-R; GradWarp; B1 Correction; N3; Scaled,Processed,10-09-2006,NiFTI,

@@ -1,0 +1,4 @@
+FileName,Image Data ID,Subject,Group,Sex,Age,Visit,Modality,Description,Type,Acq Date,Format,Downloaded
+ADNI_128_S_0947.nii,69073,128_S_0947,MCI,F,83,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,10-06-2006,NiFTI,
+ADNI_128_S_0863.nii,98875,128_S_0863,CN,M,79,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,9/25/2006,NiFTI,
+ADNI_127_S_0844.nii,34471,127_S_0844,AD,F,85,1,MRI,MPR-R; GradWarp; B1 Correction; N3; Scaled,Processed,10-09-2006,NiFTI,
