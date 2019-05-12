@@ -1,0 +1,689 @@
+subjectIdentifier,researchGroup,subjectSex,subjectInfo1,MMSCORE,GDTOTAL,CDGLOBAL,NPISCORE,FAQTOTAL,studyIdentifier,subjectAge,ageQualifier,weightKg,postMortem,seriesIdentifier,modality,dateAcquired,imageUID,processedDataLabel,imageType,tissue,hemisphere,anatomicStructure,registration
+098_S_0667,MCI,M,3,28,3,0.5,0,0,4308,69.1096,Y,83.6,F,15980,MRI,24-06-2006,89495,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+098_S_0667,MCI,M,3,23,0,0.5,7,11,7405,69.7671,Y,81.19,F,27462,MRI,19-02-2007,68572,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+098_S_0667,MCI,M,3,26,5,0.5,2,8,11337,70.2219,Y,80.74,F,38228,MRI,04-08-2007,79017,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+098_S_0896,CN,M,3,29,0,0,0,1,13400,78.0137,Y,81.19,F,41753,MRI,18-10-2007,80437,MPR-R; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+098_S_0896,CN,M,3,30,0,0,0,0,5274,76.9507,Y,82.3,F,19439,MRI,25-09-2006,56031,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+098_S_0896,CN,M,3,30,0,0.5,1,1,8229,77.5014,Y,80.74,F,29795,MRI,14-04-2007,56040,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+099_S_0040,CN,M,3,30,0,0,0,0,6622,74.5397,Y,76.2,F,24924,MRI,10-01-2007,47884,MPR-R; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+099_S_0040,CN,M,3,29,0,0,0,0,2588,73.326,Y,78.02,F,8920,MRI,24-10-2005,34607,MPR-R; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+099_S_0040,CN,M,3,28,0,0,0,0,4001,73.9123,Y,78.02,F,14952,MRI,26-05-2006,34621,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+099_S_0051,MCI,M,4,27,1,0.5,0,0,2720,66.5836,Y,77.56,F,10325,MRI,15-11-2005,35819,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+099_S_0051,MCI,M,4,28,0,0.5,2,3,4038,67.1233,Y,78.47,F,15062,MRI,31-05-2006,34488,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+099_S_0051,MCI,M,4,28,1,0.5,3,6,6484,67.6959,Y,81.65,F,24477,MRI,26-12-2006,47889,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+099_S_0054,MCI,F,3,27,2,0.5,0,0,2721,81.126,Y,69.85,F,10329,MRI,16-11-2005,35825,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+099_S_0054,MCI,F,3,23,0,0.5,2,15,4468,81.7836,Y,70.76,F,16797,MRI,14-07-2006,34495,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+099_S_0054,MCI,F,3,23,1,1,0,20,6502,82.2411,Y,73.94,F,24551,MRI,28-12-2006,47898,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+099_S_0060,MCI,M,3,27,1,0.5,0,0,2757,70.1726,Y,80.74,F,10478,MRI,07-12-2005,35833,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+099_S_0060,MCI,M,3,25,0,0.5,0,9,4557,70.8,Y,81.19,F,17136,MRI,24-07-2006,34502,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+099_S_0060,MCI,M,3,26,1,0.5,0,10,6636,71.2685,Y,82.1,F,24972,MRI,11-01-2007,47907,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+099_S_0090,CN,M,4,30,0,0,0,0,7031,71.0685,Y,85.28,F,26174,MRI,09-02-2007,102436,MPR-R; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+099_S_0090,CN,M,4,29,0,0,0,0,2878,69.989,Y,84.37,F,10835,MRI,11-01-2006,35841,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+099_S_0090,CN,M,4,30,0,0,1,0,4672,70.5479,Y,87.54,F,17555,MRI,03-08-2006,34509,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+099_S_0111,MCI,F,3,16,0,0.5,1,17,4886,76.4712,Y,53.07,F,17993,MRI,18-08-2006,34519,MPR-R; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+099_S_0111,MCI,F,3,24,1,0.5,0,0,2899,75.8904,Y,49.9,F,10933,MRI,18-01-2006,35849,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+099_S_0111,MCI,F,3,18,2,1,3,18,6939,76.9397,Y,53.52,F,25863,MRI,05-02-2007,49487,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+099_S_0291,MCI,M,3,30,5,0.5,0,0,3174,79.4274,Y,77.56,F,12065,MRI,09-03-2006,34524,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+099_S_0291,MCI,M,3,28,2,0.5,7,0,8034,80.4932,Y,80.74,F,29168,MRI,02-04-2007,65442,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+099_S_0291,MCI,M,3,30,0,0,0,0,5298,79.9863,Y,81.65,F,19512,MRI,29-09-2006,34531,MPR; GradWarp; N3; Scaled,image volume,All,Both,Brain,native
+099_S_0352,CN,F,3,29,3,0,0,0,3464,77.1397,Y,68.04,F,12992,MRI,07-04-2006,34537,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+099_S_0352,CN,F,3,30,0,0,1,0,5581,77.6904,Y,70.31,F,20962,MRI,25-10-2006,47917,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+099_S_0352,CN,F,3,30,2,0,0,0,8197,78.1562,Y,74.84,F,29683,MRI,13-04-2007,67743,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+099_S_0372,AD,M,3,23,2,0.5,0,0,3625,79.1452,Y,70.76,F,13672,MRI,21-04-2006,34549,MPR-R; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+099_S_0372,AD,M,3,17,0,0.5,4,15,5779,79.6959,Y,72.12,F,22214,MRI,08-11-2006,49539,MPR-R; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+099_S_0372,AD,M,3,16,2,1,4,20,8889,80.211,Y,73.03,F,32294,MRI,15-05-2007,65451,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+099_S_0470,AD,F,2,21,1,1,0,0,3795,86.7534,Y,42.64,F,14222,MRI,10-05-2006,34570,MPR-R; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+099_S_0470,AD,F,2,25,0,1,1,13,6028,87.3041,Y,44.45,F,22931,MRI,27-11-2006,47926,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+099_S_0470,AD,F,2,20,2,1,3,8,8922,87.7726,Y,45.36,F,32404,MRI,17-05-2007,88563,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+099_S_0533,CN,F,3,30,0,0,0,0,3998,81.126,Y,48.99,F,14938,MRI,25-05-2006,38785,MPR-R; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+099_S_0533,CN,F,3,29,0,0,0,0,6349,81.6822,Y,49.9,F,24036,MRI,14-12-2006,47935,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+099_S_0533,CN,F,3,30,0,0,0,0,8897,82.1014,Y,47.63,F,32323,MRI,16-05-2007,68788,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+099_S_0534,CN,M,3,28,1,0,0,0,3738,62.8849,Y,78.47,F,14009,MRI,04-05-2006,34578,MPR-R; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+099_S_0534,CN,M,3,28,0,0,0,0,8975,63.937,Y,81.19,F,32563,MRI,23-05-2007,65464,MPR-R; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+099_S_0534,CN,M,3,29,0,0,0,0,6095,63.4603,Y,82.1,F,23143,MRI,30-11-2006,47944,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+099_S_0551,MCI,M,3,29,1,0.5,0,0,3918,64.2438,Y,75.07,F,14645,MRI,18-05-2006,34586,MPR-R; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+099_S_0551,MCI,M,3,28,0,0,0,0,6033,64.7753,Y,77.11,F,22948,MRI,28-11-2006,63236,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+099_S_0551,MCI,M,3,30,0,0,0,0,9525,65.3699,Y,75.75,F,34384,MRI,03-07-2007,65469,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+099_S_0880,MCI,M,3,26,1,0.5,0,8,13918,85.5041,Y,73.94,F,43444,MRI,07-12-2007,121085,MPR-R; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+099_S_0880,MCI,M,3,25,2,0.5,0,0,5360,84.3315,Y,72.57,F,19744,MRI,05-10-2006,68581,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+099_S_0880,MCI,M,3,27,0,0.5,0,8,8443,84.8849,Y,72.12,F,30547,MRI,25-04-2007,68590,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+099_S_1034,MCI,M,2,26,2,0,5,4,13820,76.2959,Y,88,F,43119,MRI,29-11-2007,86447,MPR-R; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+099_S_1034,MCI,M,2,26,1,0.5,0,0,5704,75.2219,Y,86.18,F,21759,MRI,02-11-2006,47953,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+099_S_1034,MCI,M,2,28,0,0,4,2,8575,75.7123,Y,88,F,31078,MRI,30-04-2007,87166,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+099_S_1144,AD,M,3,21,1,0.5,0,0,6410,77.5452,Y,78.02,F,24218,MRI,19-12-2006,102040,MPR-R; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+099_S_1144,AD,M,3,25,0,0.5,0,0,10632,78.1863,Y,79.83,F,37181,MRI,10-08-2007,79241,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+099_S_1144,AD,M,3,26,1,0.5,0,1,14047,78.5315,Y,80.74,F,43857,MRI,14-12-2007,87274,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+100_S_0006,MCI,F,3,25,0,0.5,0,0,2674,80.4904,Y,69.4,F,10145,MRI,15-11-2005,33025,MPR; ; N3; Scaled,image volume,All,Both,Brain,native
+100_S_0006,MCI,F,3,21,0,0.5,0,0,4099,81.0356,Y,68.76,F,15294,MRI,02-06-2006,33034,MPR; ; N3; Scaled,image volume,All,Both,Brain,native
+100_S_0006,MCI,F,3,26,0,0.5,1,0,6082,81.526,Y,69.58,F,23093,MRI,28-11-2006,62348,MPR; ; N3; Scaled,image volume,All,Both,Brain,native
+100_S_0015,CN,M,3,29,0,0,0,0,1993,80.9068,Y,87.09,F,9246,MRI,26-09-2005,33066,MPR-R; ; N3; Scaled,image volume,All,Both,Brain,native
+100_S_0015,CN,M,3,30,0,0,1,0,3621,81.4658,Y,88.22,F,13657,MRI,18-04-2006,33049,MPR; ; N3; Scaled,image volume,All,Both,Brain,native
+100_S_0015,CN,M,3,27,0,0,5,2,5494,81.9644,Y,85.82,F,20317,MRI,17-10-2006,66087,MPR; ; N3; Scaled,image volume,All,Both,Brain,native
+100_S_0035,CN,M,3,29,0,0,0,0,4111,77.6466,Y,95.71,F,15318,MRI,06-06-2006,33079,MPR; ; N3; Scaled,image volume,All,Both,Brain,native
+100_S_0035,CN,M,3,29,0,0.5,0,0,6133,78.1315,Y,93.89,F,23278,MRI,30-11-2006,66092,MPR; ; N3; Scaled,image volume,All,Both,Brain,native
+100_S_0035,CN,M,3,30,0,0,0,0,2576,77.0192,Y,94.62,F,9959,MRI,20-10-2005,33074,MPR; ; N3; Scaled,image volume,All,Both,Brain,native
+100_S_0047,CN,M,2,30,0,0,0,0,2696,84.8493,Y,88.9,F,10215,MRI,17-11-2005,33086,MPR-R; ; N3; Scaled,image volume,All,Both,Brain,native
+100_S_0047,CN,M,2,28,0,0,0,0,4147,85.4082,Y,90.26,F,15402,MRI,09-06-2006,33089,MPR; ; N3; Scaled,image volume,All,Both,Brain,native
+100_S_0047,CN,M,2,30,1,0,0,0,6248,85.9068,Y,86.18,F,23672,MRI,08-12-2006,66106,MPR; ; N3; Scaled,image volume,All,Both,Brain,native
+100_S_0069,CN,M,3,28,0,0,0,0,2807,72.9973,Y,73.12,F,10563,MRI,13-12-2005,33105,MPR; ; N3; Scaled,image volume,All,Both,Brain,native
+100_S_0069,CN,M,3,28,0,0,0,0,4574,73.5973,Y,73.3,F,17213,MRI,20-07-2006,33094,MPR; ; N3; Scaled,image volume,All,Both,Brain,native
+100_S_0069,CN,M,3,30,0,0,0,0,6619,74.0712,Y,73.39,F,24911,MRI,09-01-2007,62336,MPR; ; N3; Scaled,image volume,All,Both,Brain,native
+100_S_0190,MCI,M,3,27,1,0.5,0,0,3632,79.0219,Y,86.91,F,13689,MRI,24-04-2006,33109,MPR; ; N3; Scaled,image volume,All,Both,Brain,native
+100_S_0190,MCI,M,3,25,0,0.5,2,8,5951,79.5863,Y,83.55,F,22677,MRI,16-11-2006,106190,MPR; ; N3; Scaled,image volume,All,Both,Brain,native
+100_S_0190,MCI,M,3,25,0,0.5,2,13,8797,80.0603,Y,81.37,F,31991,MRI,08-05-2007,95674,MPR; ; N3; Scaled,image volume,All,Both,Brain,native
+100_S_0296,MCI,M,3,26,1,0.5,0,0,3399,79.3068,Y,70.4,F,12814,MRI,03-04-2006,33121,MPR-R; ; N3; Scaled,image volume,All,Both,Brain,native
+100_S_0296,MCI,M,3,25,0,0.5,0,4,5565,79.8658,Y,68.49,F,20894,MRI,24-10-2006,62341,MPR; ; N3; Scaled,image volume,All,Both,Brain,native
+100_S_0296,MCI,M,3,27,0,0.5,0,0,8272,80.3452,Y,69.49,F,29945,MRI,17-04-2007,80659,MPR; ; N3; Scaled,image volume,All,Both,Brain,native
+100_S_0995,MCI,F,3,26,3,0.5,0,0,5763,78.5534,Y,61.23,F,22114,MRI,27-10-2006,138912,MPR; ; N3; Scaled,image volume,All,Both,Brain,native
+100_S_0995,MCI,F,3,23,0,0.5,3,5,8936,79.1068,Y,62.51,F,32451,MRI,17-05-2007,91062,MPR; ; N3; Scaled,image volume,All,Both,Brain,native
+100_S_0995,MCI,F,3,23,4,1,3,14,13766,79.6164,Y,65.23,F,42933,MRI,19-11-2007,91078,MPR; ; N3; Scaled,image volume,All,Both,Brain,native
+109_S_0950,MCI,M,3,26,5,0.5,0,0,5631,73.6274,Y,81.65,F,21165,MRI,25-10-2006,119261,MPR-R; GradWarp; B1 Correction; N3; Scaled_2,image volume,All,Both,Brain,native
+109_S_0950,MCI,M,3,26,5,0.5,0,0,5631,73.6274,Y,81.65,F,21165,MRI,25-10-2006,97200,MPR-R; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+109_S_0950,MCI,M,3,30,0,0.5,0,0,9382,74.2767,Y,78.56,F,33867,MRI,19-06-2007,79026,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+109_S_0950,MCI,M,3,25,10,0.5,0,0,16094,74.7726,Y,78.02,F,50598,MRI,17-12-2007,121090,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+109_S_0967,CN,M,2,30,1,0,0,0,5628,76.9507,Y,83.91,F,21137,MRI,23-10-2006,119260,MPR; GradWarp; B1 Correction; N3; Scaled_2,image volume,All,Both,Brain,native
+109_S_0967,CN,M,2,30,1,0,0,0,5628,76.9507,Y,83.91,F,21137,MRI,23-10-2006,55044,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+109_S_0967,CN,M,2,30,0,0,0,0,9390,77.6055,Y,87.41,F,33892,MRI,19-06-2007,72531,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+109_S_0967,CN,M,2,30,1,0,0,0,16097,78.1014,Y,85.6,F,50607,MRI,17-12-2007,121099,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+109_S_1014,CN,F,3,30,1,0,0,0,15533,86.2904,Y,77.97,F,48859,MRI,14-04-2008,103489,MPR-R; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+109_S_1014,CN,F,3,30,0,0,0,0,6579,84.9945,Y,81.28,F,24818,MRI,28-12-2006,119264,MPR; GradWarp; B1 Correction; N3; Scaled_2,image volume,All,Both,Brain,native
+109_S_1014,CN,F,3,30,0,0,0,0,6579,84.9945,Y,81.28,F,24818,MRI,28-12-2006,63479,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+109_S_1014,CN,F,3,30,0,0,0,0,18242,85.6247,Y,78.47,F,58145,MRI,15-08-2007,125920,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+109_S_1114,MCI,F,3,28,3,0.5,0,0,6545,78.4685,Y,91.08,F,24702,MRI,27-12-2006,119263,MPR; GradWarp; B1 Correction; N3; Scaled_2,image volume,All,Both,Brain,native
+109_S_1114,MCI,F,3,28,3,0.5,0,0,6545,78.4685,Y,91.08,F,24702,MRI,27-12-2006,63489,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+109_S_1114,MCI,F,3,28,0,0.5,0,0,10446,79.0384,Y,87.91,F,36644,MRI,23-07-2007,73191,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+109_S_1114,MCI,F,3,27,2,0.5,0,1,14429,79.5479,Y,88.77,F,44985,MRI,25-01-2008,92577,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+109_S_1157,AD,F,3,20,0,2,7,14,16102,85.5151,Y,56,F,50624,MRI,13-07-2007,122698,MPR-R; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+109_S_1157,AD,F,3,21,0,1,0,0,6547,84.9918,Y,54.88,F,24711,MRI,03-01-2007,119265,MPR; GradWarp; B1 Correction; N3; Scaled_2,image volume,All,Both,Brain,native
+109_S_1157,AD,F,3,21,0,1,0,0,6547,84.9918,Y,54.88,F,24711,MRI,03-01-2007,66158,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+109_S_1157,AD,F,3,16,1,2,8,23,18246,86.0466,Y,53.1,F,58164,MRI,23-01-2008,128789,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+109_S_1183,MCI,M,3,30,0,0.5,0,0,14427,81.3973,Y,82.8,F,44976,MRI,25-01-2008,92273,MPR-R; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+109_S_1183,MCI,M,3,27,0,0.5,0,0,18245,80.8795,Y,84.55,F,58159,MRI,20-07-2007,125949,MPR-R; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+109_S_1183,MCI,M,3,24,1,0.5,0,0,6548,80.337,Y,84.14,F,24718,MRI,03-01-2007,119266,MPR; GradWarp; B1 Correction; N3; Scaled_2,image volume,All,Both,Brain,native
+109_S_1183,MCI,M,3,24,1,0.5,0,0,6548,80.337,Y,84.14,F,24718,MRI,03-01-2007,66167,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+109_S_1343,MCI,M,3,26,4,0.5,0,0,7914,64.7973,Y,109.414,F,28820,MRI,20-03-2007,66176,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+109_S_1343,MCI,M,3,30,0,0,0,0,13410,65.3753,Y,106.32,F,41789,MRI,17-10-2007,95679,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+109_S_1343,MCI,M,3,26,2,0.5,6,4,15749,65.8795,Y,109.77,F,49500,MRI,18-04-2008,105465,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+114_S_0166,CN,F,3,30,0,0,0,0,3041,72.5781,Y,50.35,F,11584,MRI,10-02-2006,39810,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+114_S_0166,CN,F,3,30,0,0,0,0,4943,73.1096,Y,48.99,F,18173,MRI,23-08-2006,49727,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+114_S_0166,CN,F,3,30,0,0.5,1,1,7309,73.6219,Y,52.62,F,27147,MRI,26-02-2007,68134,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+114_S_0173,CN,M,3,30,0,0,0,0,3044,73.3233,Y,71.67,F,11594,MRI,10-02-2006,96321,MPR-R; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+114_S_0173,CN,M,3,30,0,0,0,0,7347,74.3699,Y,74.39,F,27269,MRI,27-02-2007,94894,MPR-R; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+114_S_0173,CN,M,3,30,0,0,0,0,5155,73.8986,Y,72.12,F,18971,MRI,08-09-2006,88456,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+114_S_0374,AD,F,3,26,0,1,0,0,3472,76.0055,Y,61.92,F,13031,MRI,10-04-2006,39817,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+114_S_0374,AD,F,3,26,0,0.5,0,23,5368,76.4932,Y,60.78,F,19771,MRI,05-10-2006,49748,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+114_S_0374,AD,F,3,24,0,1,2,23,8399,77.0329,Y,60.78,F,30411,MRI,20-04-2007,68600,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+114_S_0378,MCI,F,3,29,0,0.5,0,11,5676,69.674,Y,67.13,F,21540,MRI,26-10-2006,81418,MPR-R; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+114_S_0378,MCI,F,3,28,1,0.5,0,0,3381,69.1123,Y,68.49,F,12760,MRI,04-04-2006,95688,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+114_S_0378,MCI,F,3,28,0,0.5,0,12,8920,70.2137,Y,67.59,F,32395,MRI,11-05-2007,99104,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+114_S_0410,MCI,F,3,30,0,0.5,0,1,8333,62.3644,Y,75.3,F,30133,MRI,23-04-2007,68613,MPR-R; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+114_S_0410,MCI,F,3,29,1,0.5,0,0,3541,61.3507,Y,71.67,F,13289,MRI,18-04-2006,39824,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+114_S_0410,MCI,F,3,30,0,0.5,0,0,6108,61.9671,Y,73.03,F,23195,MRI,29-11-2006,49897,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+114_S_0416,CN,F,3,29,2,0,0,0,3600,72.7096,Y,50.8,F,13556,MRI,20-04-2006,39836,MPR-R; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+114_S_0416,CN,F,3,30,0,0,0,0,5746,73.2438,Y,51.26,F,21924,MRI,01-11-2006,67509,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+114_S_0416,CN,F,3,28,1,0,0,0,8709,73.7425,Y,50.8,F,31685,MRI,02-05-2007,94899,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+114_S_0458,MCI,F,3,24,0,0.5,0,0,3765,83.0438,Y,67.13,F,14111,MRI,09-05-2006,39845,MPR-R; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+114_S_0458,MCI,F,3,22,0,0.5,10,3,6042,83.5973,Y,58.51,F,22982,MRI,27-11-2006,49901,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+114_S_0458,MCI,F,3,18,3,0.5,13,10,9347,84.1425,Y,59.87,F,33753,MRI,14-06-2007,101700,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+114_S_0601,CN,F,3,30,1,0,0,0,4071,76.674,Y,52.62,F,15201,MRI,05-06-2006,39850,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+114_S_0601,CN,F,3,30,0,0,0,0,6316,77.1918,Y,52.16,F,23933,MRI,11-12-2006,68143,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+114_S_0601,CN,F,3,30,0,0,0,0,9701,77.7753,Y,50.58,F,35131,MRI,12-07-2007,68153,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+114_S_0979,AD,M,3,21,0,1,0,0,5748,86.3479,Y,78.47,F,21933,MRI,01-11-2006,39859,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+114_S_0979,AD,M,3,19,0,1,4,25,9056,86.9205,Y,80.74,F,32809,MRI,29-05-2007,68163,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+114_S_0979,AD,M,3,21,0,2,4,28,14390,87.4274,Y,78.1,F,44853,MRI,30-11-2007,92217,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+114_S_1103,MCI,M,3,27,2,0.5,0,0,6118,83.0849,Y,80.29,F,23239,MRI,29-11-2006,49757,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+114_S_1103,MCI,M,3,28,0,0.5,1,3,9544,83.674,Y,81.65,F,34453,MRI,03-07-2007,82603,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+114_S_1103,MCI,M,3,29,2,0.5,0,2,14406,84.211,Y,82.8,F,44904,MRI,15-01-2008,91896,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+114_S_1106,MCI,F,3,30,3,0.5,0,0,5999,74.0575,Y,83.91,F,22859,MRI,21-11-2006,49910,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+114_S_1106,MCI,F,3,30,0,0.5,2,3,9196,74.6,Y,86.64,F,33278,MRI,07-06-2007,69501,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+114_S_1106,MCI,F,3,29,2,0.5,4,1,14393,75.1315,Y,87,F,44863,MRI,18-12-2007,92696,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+114_S_1118,MCI,M,3,28,0,0.5,1,2,9624,83.1836,Y,81.65,F,34821,MRI,11-07-2007,69515,MPR-R; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+114_S_1118,MCI,M,3,27,0,0.5,0,0,6285,82.5945,Y,74.39,F,23803,MRI,08-12-2006,49768,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+114_S_1118,MCI,M,3,28,0,0.5,3,2,14414,83.6986,Y,80.4,F,44936,MRI,15-01-2008,98829,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+116_S_0361,MCI,M,3,26,0,0.5,0,2,5640,75.0849,Y,83.91,F,21220,MRI,26-10-2006,59763,MPR-R; GradWarp; N3; Scaled,image volume,All,Both,Brain,native
+116_S_0361,MCI,M,3,29,0,0.5,0,0,3672,74.5863,Y,86.64,F,13809,MRI,27-04-2006,59753,MPR; GradWarp; N3; Scaled,image volume,All,Both,Brain,native
+116_S_0361,MCI,M,3,29,1,0.5,2,6,8884,75.6219,Y,85.28,F,32277,MRI,10-05-2007,64383,MPR; GradWarp; N3; Scaled,image volume,All,Both,Brain,native
+116_S_0370,AD,F,3,25,1,1,0,0,3638,74.6219,Y,55.34,F,13703,MRI,24-04-2006,59777,MPR-R; GradWarp; N3; Scaled,image volume,All,Both,Brain,native
+116_S_0370,AD,F,3,25,0,1,7,12,5850,75.1781,Y,56.7,F,22407,MRI,13-11-2006,59770,MPR-R; GradWarp; N3; Scaled,image volume,All,Both,Brain,native
+116_S_0370,AD,F,3,26,0,1,5,17,8886,75.6767,Y,55.79,F,32284,MRI,14-05-2007,87744,MPR-R; GradWarp; N3; Scaled,image volume,All,Both,Brain,native
+116_S_0382,CN,F,3,29,1,0,0,0,3877,75.6192,Y,64.86,F,14502,MRI,15-05-2006,59725,MPR; GradWarp; N3; Scaled,image volume,All,Both,Brain,native
+116_S_0382,CN,F,3,29,0,0,0,0,6117,76.1644,Y,64.41,F,23233,MRI,30-11-2006,86150,MPR; GradWarp; N3; Scaled,image volume,All,Both,Brain,native
+116_S_0382,CN,F,3,29,1,0,0,0,9402,76.7205,Y,63.503,F,33930,MRI,21-06-2007,80682,MPR; GradWarp; N3; Scaled,image volume,All,Both,Brain,native
+116_S_0392,AD,F,4,20,0,1,1,18,6197,85.2055,Y,53.98,F,23484,MRI,04-12-2006,86146,MPR-R; GradWarp; N3; Scaled,image volume,All,Both,Brain,native
+116_S_0392,AD,F,4,19,0,1,4,21,9328,85.7342,Y,53.98,F,33700,MRI,15-06-2007,72801,MPR-R; GradWarp; N3; Scaled,image volume,All,Both,Brain,native
+116_S_0392,AD,F,4,20,1,0.5,0,0,4097,84.7068,Y,53.52,F,15287,MRI,05-06-2006,59690,MPR; GradWarp; N3; Scaled,image volume,All,Both,Brain,native
+116_S_0487,AD,M,3,22,6,0.5,0,0,4057,76.5041,Y,73.03,F,15138,MRI,01-06-2006,59686,MPR-R; GradWarp; N3; Scaled,image volume,All,Both,Brain,native
+116_S_0487,AD,M,3,22,0,0.5,3,13,6479,77.063,Y,75.3,F,24465,MRI,22-12-2006,86136,MPR; GradWarp; N3; Scaled,image volume,All,Both,Brain,native
+116_S_0487,AD,M,3,19,4,0.5,2,14,9332,77.5507,Y,77.34,F,33710,MRI,18-06-2007,80689,MPR; GradWarp; N3; Scaled,image volume,All,Both,Brain,native
+116_S_0648,CN,F,3,30,0,0,0,0,4756,71.6055,Y,83.46,F,17724,MRI,03-08-2006,59666,MPR; GradWarp; N3; Scaled,image volume,All,Both,Brain,native
+116_S_0648,CN,F,3,29,0,0,0,0,7209,72.1425,Y,91.17,F,26805,MRI,15-02-2007,59659,MPR; GradWarp; N3; Scaled,image volume,All,Both,Brain,native
+116_S_0648,CN,F,3,30,0,0,0,0,10339,72.5836,Y,90.72,F,36409,MRI,26-07-2007,72814,MPR; GradWarp; N3; Scaled,image volume,All,Both,Brain,native
+116_S_0649,MCI,M,2,26,4,0.5,0,0,4563,86.7808,Y,73.48,F,17166,MRI,24-07-2006,59697,MPR; GradWarp; N3; Scaled,image volume,All,Both,Brain,native
+116_S_0649,MCI,M,2,25,0,0.5,1,9,7246,87.3616,Y,72.35,F,26942,MRI,21-02-2007,59704,MPR; GradWarp; N3; Scaled,image volume,All,Both,Brain,native
+116_S_0649,MCI,M,2,24,2,0.5,6,11,10618,87.8219,Y,69.63,F,37130,MRI,08-08-2007,74411,MPR; GradWarp; N3; Scaled,image volume,All,Both,Brain,native
+116_S_0657,CN,F,2,29,0,0,0,0,4954,77.863,Y,59.42,F,18236,MRI,24-08-2006,59739,MPR; GradWarp; N3; Scaled,image volume,All,Both,Brain,native
+116_S_0657,CN,F,2,28,0,0,2,1,7527,78.4027,Y,61.23,F,27815,MRI,09-03-2007,59746,MPR; GradWarp; N3; Scaled,image volume,All,Both,Brain,native
+116_S_0657,CN,F,2,28,0,0,0,0,11664,78.8767,Y,61.69,F,38715,MRI,29-08-2007,82619,MPR; GradWarp; N3; Scaled,image volume,All,Both,Brain,native
+116_S_0752,MCI,F,3,23,0,0.5,3,10,7212,82.5534,Y,55.57,F,26816,MRI,16-02-2007,86132,MPR-R; GradWarp; N3; Scaled,image volume,All,Both,Brain,native
+116_S_0752,MCI,F,3,24,2,0.5,0,0,4911,82.0493,Y,55.34,F,18066,MRI,16-08-2006,59637,MPR; GradWarp; N3; Scaled,image volume,All,Both,Brain,native
+116_S_0752,MCI,F,3,28,2,0.5,3,12,10616,83.0274,Y,53.07,F,37126,MRI,08-08-2007,74419,MPR; GradWarp; N3; Scaled,image volume,All,Both,Brain,native
+116_S_0834,MCI,M,3,26,4,0.5,0,0,5314,63.9534,Y,94.8,F,19568,MRI,29-09-2006,59798,MPR-R; GradWarp; N3; Scaled,image volume,All,Both,Brain,native
+116_S_0834,MCI,M,3,22,0,0.5,11,11,8552,64.526,Y,95.71,F,31019,MRI,26-04-2007,59818,MPR-R; GradWarp; N3; Scaled,image volume,All,Both,Brain,native
+116_S_0834,MCI,M,3,26,3,1,14,13,13808,65.1151,Y,95.25,F,43077,MRI,27-11-2007,92595,MPR; GradWarp; N3; Scaled,image volume,All,Both,Brain,native
+116_S_1232,CN,F,3,28,0,0,0,0,6906,72.1973,Y,88,F,25756,MRI,24-01-2007,59711,MPR; GradWarp; N3; Scaled,image volume,All,Both,Brain,native
+116_S_1232,CN,F,3,29,0,0,0,0,10504,72.7151,Y,85.28,F,36796,MRI,01-08-2007,72838,MPR; GradWarp; N3; Scaled,image volume,All,Both,Brain,native
+116_S_1232,CN,F,3,30,0,0,0,0,14471,73.2137,Y,84.37,F,45139,MRI,30-01-2008,91905,MPR; GradWarp; N3; Scaled,image volume,All,Both,Brain,native
+116_S_1243,MCI,M,3,27,0,0.5,0,0,7006,77.4055,Y,78.47,F,26080,MRI,07-02-2007,59735,MPR-R; GradWarp; N3; Scaled,image volume,All,Both,Brain,native
+116_S_1243,MCI,M,3,27,0,0.5,2,0,11764,77.9836,Y,74.4,F,38957,MRI,06-09-2007,77078,MPR; GradWarp; N3; Scaled,image volume,All,Both,Brain,native
+116_S_1243,MCI,M,3,29,1,0.5,1,1,14694,78.4274,Y,77,F,45892,MRI,15-02-2008,98845,MPR; GradWarp; N3; Scaled,image volume,All,Both,Brain,native
+116_S_1249,CN,F,3,30,0,0,0,0,7008,70.9014,Y,53.52,F,26084,MRI,07-02-2007,59647,MPR-R; GradWarp; N3; Scaled,image volume,All,Both,Brain,native
+116_S_1249,CN,F,3,30,0,0,0,0,11342,71.4384,Y,51.71,F,38244,MRI,22-08-2007,80693,MPR; GradWarp; N3; Scaled,image volume,All,Both,Brain,native
+116_S_1249,CN,F,3,30,2,0,0,0,14570,71.8986,Y,53.07,F,45480,MRI,06-02-2008,99187,MPR; GradWarp; N3; Scaled,image volume,All,Both,Brain,native
+116_S_1271,MCI,M,3,27,2,0.5,0,0,7244,71.2904,Y,93.67,F,26938,MRI,21-02-2007,59652,MPR; GradWarp; N3; Scaled,image volume,All,Both,Brain,native
+116_S_1271,MCI,M,3,23,0,0.5,3,10,11761,71.8274,Y,95.71,F,38952,MRI,05-09-2007,77083,MPR; GradWarp; N3; Scaled,image volume,All,Both,Brain,native
+116_S_1271,MCI,M,3,25,1,1,5,14,14960,72.3397,Y,96.62,F,46819,MRI,10-03-2008,101965,MPR; GradWarp; N3; Scaled,image volume,All,Both,Brain,native
+116_S_1315,MCI,F,3,24,0,0.5,2,1,13514,83.9644,Y,82.74,F,42102,MRI,21-09-2007,82629,MPR-R; GradWarp; N3; Scaled,image volume,All,Both,Brain,native
+116_S_1315,MCI,F,3,25,4,0.5,0,0,7525,83.4247,Y,82.1,F,27811,MRI,08-03-2007,59718,MPR; GradWarp; N3; Scaled,image volume,All,Both,Brain,native
+116_S_1315,MCI,F,3,27,5,0.5,1,0,15116,84.463,Y,78.93,F,47351,MRI,21-03-2008,102120,MPR; GradWarp; N3; Scaled,image volume,All,Both,Brain,native
+121_S_1322,MCI,F,4,28,1,0.5,0,0,7384,71.7973,Y,67.59,F,27376,MRI,02-03-2007,119268,MPR; ; N3; Scaled_2,image volume,All,Both,Brain,native
+121_S_1322,MCI,F,4,28,1,0.5,0,0,7384,71.7973,Y,67.59,F,27376,MRI,02-03-2007,66185,MPR; ; N3; Scaled,image volume,All,Both,Brain,native
+121_S_1322,MCI,F,4,23,0,0.5,0,4,11834,72.3233,Y,68.95,F,39096,MRI,10-09-2007,80889,MPR; ; N3; Scaled,image volume,All,Both,Brain,native
+121_S_1322,MCI,F,4,28,1,0.5,0,2,15455,72.9041,Y,69.85,F,48586,MRI,09-04-2008,103719,MPR; ; N3; Scaled,image volume,All,Both,Brain,native
+123_S_0050,MCI,M,3,24,1,1,2,19,6239,78.7699,Y,83.46,F,23638,MRI,07-12-2006,119272,MPR-R; ; N3; Scaled_2,image volume,All,Both,Brain,native
+123_S_0050,MCI,M,3,24,1,1,2,19,6239,78.7699,Y,83.46,F,23638,MRI,07-12-2006,66664,MPR-R; ; N3; Scaled,image volume,All,Both,Brain,native
+123_S_0050,MCI,M,3,26,0,0.5,0,0,2656,77.6986,Y,79.5,F,10053,MRI,11-11-2005,119270,MPR; ; N3; Scaled_2,image volume,All,Both,Brain,native
+123_S_0050,MCI,M,3,22,0,1,5,17,4122,78.2685,Y,80.74,F,15358,MRI,07-06-2006,119271,MPR; ; N3; Scaled_2,image volume,All,Both,Brain,native
+123_S_0050,MCI,M,3,26,0,0.5,0,0,2656,77.6986,Y,79.5,F,10053,MRI,11-11-2005,64390,MPR; ; N3; Scaled,image volume,All,Both,Brain,native
+123_S_0050,MCI,M,3,22,0,1,5,17,4122,78.2685,Y,80.74,F,15358,MRI,07-06-2006,63526,MPR; ; N3; Scaled,image volume,All,Both,Brain,native
+123_S_0072,CN,M,3,28,0,0,0,0,2863,70.7288,Y,106.14,F,10776,MRI,04-01-2006,119274,MPR; ; N3; Scaled_2,image volume,All,Both,Brain,native
+123_S_0072,CN,M,3,29,0,0,0,0,4547,71.2658,Y,102.97,F,17085,MRI,19-07-2006,119275,MPR; ; N3; Scaled_2,image volume,All,Both,Brain,native
+123_S_0072,CN,M,3,30,1,0,0,0,6726,71.7671,Y,107.05,F,25240,MRI,18-01-2007,119276,MPR; ; N3; Scaled_2,image volume,All,Both,Brain,native
+123_S_0072,CN,M,3,28,0,0,0,0,2863,70.7288,Y,106.14,F,10776,MRI,04-01-2006,64395,MPR; ; N3; Scaled,image volume,All,Both,Brain,native
+123_S_0072,CN,M,3,29,0,0,0,0,4547,71.2658,Y,102.97,F,17085,MRI,19-07-2006,63531,MPR; ; N3; Scaled,image volume,All,Both,Brain,native
+123_S_0072,CN,M,3,30,1,0,0,0,6726,71.7671,Y,107.05,F,25240,MRI,18-01-2007,66672,MPR; ; N3; Scaled,image volume,All,Both,Brain,native
+123_S_0088,AD,M,4,22,0,0.5,9,28,4819,66.3479,Y,102.51,F,17840,MRI,14-08-2006,119283,MPR-R; ; N3; Scaled_2,image volume,All,Both,Brain,native
+123_S_0088,AD,M,4,22,0,0.5,9,28,4819,66.3479,Y,102.51,F,17840,MRI,14-08-2006,63538,MPR-R; ; N3; Scaled,image volume,All,Both,Brain,native
+123_S_0088,AD,M,4,21,1,0.5,0,0,2867,65.7452,Y,98.97,F,10795,MRI,06-01-2006,119277,MPR; ; N3; Scaled_2,image volume,All,Both,Brain,native
+123_S_0088,AD,M,4,21,1,0.5,0,0,2867,65.7452,Y,98.97,F,10795,MRI,06-01-2006,64400,MPR; ; N3; Scaled,image volume,All,Both,Brain,native
+123_S_0088,AD,M,4,12,0,3,29,30,6955,66.8274,Y,100,F,25920,MRI,05-02-2007,122735,MPR; ; N3; Scaled,image volume,All,Both,Brain,native
+123_S_0091,AD,M,3,25,0,0.5,7,15,4284,62.9534,Y,71.21,F,15898,MRI,27-06-2006,119289,MPR-R; ; N3; Scaled_2,image volume,All,Both,Brain,native
+123_S_0091,AD,M,3,25,0,0.5,7,15,4284,62.9534,Y,71.21,F,15898,MRI,27-06-2006,63543,MPR-R; ; N3; Scaled,image volume,All,Both,Brain,native
+123_S_0091,AD,M,3,25,0,0.5,0,0,2844,62.4438,Y,73.03,F,10708,MRI,23-12-2005,119288,MPR; ; N3; Scaled_2,image volume,All,Both,Brain,native
+123_S_0091,AD,M,3,26,1,0.5,3,14,6660,63.4959,Y,72.57,F,25040,MRI,11-01-2007,119290,MPR; ; N3; Scaled_2,image volume,All,Both,Brain,native
+123_S_0091,AD,M,3,25,0,0.5,0,0,2844,62.4438,Y,73.03,F,10708,MRI,23-12-2005,64405,MPR; ; N3; Scaled,image volume,All,Both,Brain,native
+123_S_0091,AD,M,3,26,1,0.5,3,14,6660,63.4959,Y,72.57,F,25040,MRI,11-01-2007,66677,MPR; ; N3; Scaled,image volume,All,Both,Brain,native
+123_S_0094,AD,F,3,21,3,1,0,0,2845,70.811,Y,73.94,F,10712,MRI,28-12-2005,119300,MPR; ; N3; Scaled_2,image volume,All,Both,Brain,native
+123_S_0094,AD,F,3,20,0,1,8,27,4276,71.3041,Y,73.94,F,15867,MRI,26-06-2006,119301,MPR; ; N3; Scaled_2,image volume,All,Both,Brain,native
+123_S_0094,AD,F,3,19,2,2,8,25,6637,71.8466,Y,74.84,F,24976,MRI,10-01-2007,119306,MPR; ; N3; Scaled_2,image volume,All,Both,Brain,native
+123_S_0094,AD,F,3,21,3,1,0,0,2845,70.811,Y,73.94,F,10712,MRI,28-12-2005,64410,MPR; ; N3; Scaled,image volume,All,Both,Brain,native
+123_S_0094,AD,F,3,20,0,1,8,27,4276,71.3041,Y,73.94,F,15867,MRI,26-06-2006,63546,MPR; ; N3; Scaled,image volume,All,Both,Brain,native
+123_S_0094,AD,F,3,19,2,2,8,25,6637,71.8466,Y,74.84,F,24976,MRI,10-01-2007,80727,MPR; ; N3; Scaled,image volume,All,Both,Brain,native
+123_S_0106,CN,F,3,30,0,0,0,0,4657,73.7973,Y,132.45,F,17506,MRI,01-08-2006,119308,MPR-R; ; N3; Scaled_2,image volume,All,Both,Brain,native
+123_S_0106,CN,F,3,30,0,0,0,0,4657,73.7973,Y,132.45,F,17506,MRI,01-08-2006,64965,MPR-R; ; N3; Scaled,image volume,All,Both,Brain,native
+123_S_0106,CN,F,3,30,2,0,0,0,2917,73.2685,Y,137.44,F,11010,MRI,20-01-2006,119307,MPR; ; N3; Scaled_2,image volume,All,Both,Brain,native
+123_S_0106,CN,F,3,29,2,0,0,0,6837,74.2795,Y,120.2,F,25537,MRI,24-01-2007,119309,MPR; ; N3; Scaled_2,image volume,All,Both,Brain,native
+123_S_0106,CN,F,3,30,2,0,0,0,2917,73.2685,Y,137.44,F,11010,MRI,20-01-2006,65478,MPR; ; N3; Scaled,image volume,All,Both,Brain,native
+123_S_0106,CN,F,3,29,2,0,0,0,6837,74.2795,Y,120.2,F,25537,MRI,24-01-2007,66682,MPR; ; N3; Scaled,image volume,All,Both,Brain,native
+123_S_0108,MCI,M,3,27,2,0.5,0,0,3001,78.3918,Y,72.57,F,11415,MRI,01-02-2006,119310,MPR-R; ; N3; Scaled_2,image volume,All,Both,Brain,native
+123_S_0108,MCI,M,3,27,2,0.5,0,0,3001,78.3918,Y,72.57,F,11415,MRI,01-02-2006,64417,MPR-R; ; N3; Scaled,image volume,All,Both,Brain,native
+123_S_0108,MCI,M,3,29,0,0.5,0,8,4718,78.9068,Y,75.52,F,17637,MRI,08-08-2006,119311,MPR; ; N3; Scaled_2,image volume,All,Both,Brain,native
+123_S_0108,MCI,M,3,28,2,0.5,0,17,7250,79.4493,Y,76.2,F,26954,MRI,22-02-2007,119321,MPR; ; N3; Scaled_2,image volume,All,Both,Brain,native
+123_S_0108,MCI,M,3,29,0,0.5,0,8,4718,78.9068,Y,75.52,F,17637,MRI,08-08-2006,66300,MPR; ; N3; Scaled,image volume,All,Both,Brain,native
+123_S_0108,MCI,M,3,28,2,0.5,0,17,7250,79.4493,Y,76.2,F,26954,MRI,22-02-2007,66687,MPR; ; N3; Scaled,image volume,All,Both,Brain,native
+123_S_0113,CN,M,2,28,4,0,0,0,3160,75.3178,Y,76.2,F,12020,MRI,08-03-2006,119322,MPR; ; N3; Scaled_2,image volume,All,Both,Brain,native
+123_S_0113,CN,M,2,30,0,0,1,0,5123,75.8356,Y,75.98,F,18842,MRI,13-09-2006,119323,MPR; ; N3; Scaled_2,image volume,All,Both,Brain,native
+123_S_0113,CN,M,2,29,3,0,0,0,7531,76.3288,Y,76.2,F,27824,MRI,12-03-2007,119324,MPR; ; N3; Scaled_2,image volume,All,Both,Brain,native
+123_S_0113,CN,M,2,28,4,0,0,0,3160,75.3178,Y,76.2,F,12020,MRI,08-03-2006,63551,MPR; ; N3; Scaled,image volume,All,Both,Brain,native
+123_S_0113,CN,M,2,30,0,0,1,0,5123,75.8356,Y,75.98,F,18842,MRI,13-09-2006,65483,MPR; ; N3; Scaled,image volume,All,Both,Brain,native
+123_S_0113,CN,M,2,29,3,0,0,0,7531,76.3288,Y,76.2,F,27824,MRI,12-03-2007,66692,MPR; ; N3; Scaled,image volume,All,Both,Brain,native
+123_S_0162,AD,M,3,24,1,0.5,0,0,3033,71.8795,Y,79.83,F,11551,MRI,08-02-2006,119325,MPR-R; ; N3; Scaled_2,image volume,All,Both,Brain,native
+123_S_0162,AD,M,3,24,1,0.5,0,0,3033,71.8795,Y,79.83,F,11551,MRI,08-02-2006,64422,MPR-R; ; N3; Scaled,image volume,All,Both,Brain,native
+123_S_0162,AD,M,3,28,0,0.5,1,3,5742,72.611,Y,78.02,F,21911,MRI,02-11-2006,119326,MPR; ; N3; Scaled_2,image volume,All,Both,Brain,native
+123_S_0162,AD,M,3,27,2,0.5,0,5,8715,73.1068,Y,78.02,F,31702,MRI,02-05-2007,119327,MPR; ; N3; Scaled_2,image volume,All,Both,Brain,native
+123_S_0162,AD,M,3,28,0,0.5,1,3,5742,72.611,Y,78.02,F,21911,MRI,02-11-2006,66697,MPR; ; N3; Scaled,image volume,All,Both,Brain,native
+123_S_0162,AD,M,3,27,2,0.5,0,5,8715,73.1068,Y,78.02,F,31702,MRI,02-05-2007,66702,MPR; ; N3; Scaled,image volume,All,Both,Brain,native
+123_S_0298,CN,M,3,30,1,0,0,0,3499,76.5781,Y,75.3,F,13153,MRI,11-04-2006,119328,MPR-R; ; N3; Scaled_2,image volume,All,Both,Brain,native
+123_S_0298,CN,M,3,30,1,0,0,0,3499,76.5781,Y,75.3,F,13153,MRI,11-04-2006,64427,MPR-R; ; N3; Scaled,image volume,All,Both,Brain,native
+123_S_0298,CN,M,3,28,0,0,0,0,5781,77.1562,Y,74.84,F,22220,MRI,08-11-2006,119329,MPR; ; N3; Scaled_2,image volume,All,Both,Brain,native
+123_S_0298,CN,M,3,29,0,0,0,0,8783,77.6548,Y,76.2,F,31946,MRI,09-05-2007,119330,MPR; ; N3; Scaled_2,image volume,All,Both,Brain,native
+123_S_0298,CN,M,3,28,0,0,0,0,5781,77.1562,Y,74.84,F,22220,MRI,08-11-2006,80732,MPR; ; N3; Scaled,image volume,All,Both,Brain,native
+123_S_0298,CN,M,3,29,0,0,0,0,8783,77.6548,Y,76.2,F,31946,MRI,09-05-2007,66707,MPR; ; N3; Scaled,image volume,All,Both,Brain,native
+123_S_0390,MCI,M,3,30,1,0.5,0,0,3488,80.5123,Y,76.2,F,13099,MRI,11-04-2006,119331,MPR; ; N3; Scaled_2,image volume,All,Both,Brain,native
+123_S_0390,MCI,M,3,29,0,0.5,1,0,6045,81.1041,Y,77.56,F,22989,MRI,13-11-2006,119332,MPR; ; N3; Scaled_2,image volume,All,Both,Brain,native
+123_S_0390,MCI,M,3,29,1,0.5,0,0,8717,81.5726,Y,79.38,F,31708,MRI,03-05-2007,119333,MPR; ; N3; Scaled_2,image volume,All,Both,Brain,native
+123_S_0390,MCI,M,3,30,1,0.5,0,0,3488,80.5123,Y,76.2,F,13099,MRI,11-04-2006,64430,MPR; ; N3; Scaled,image volume,All,Both,Brain,native
+123_S_0390,MCI,M,3,29,0,0.5,1,0,6045,81.1041,Y,77.56,F,22989,MRI,13-11-2006,66712,MPR; ; N3; Scaled,image volume,All,Both,Brain,native
+123_S_0390,MCI,M,3,29,1,0.5,0,0,8717,81.5726,Y,79.38,F,31708,MRI,03-05-2007,66717,MPR; ; N3; Scaled,image volume,All,Both,Brain,native
+123_S_1300,MCI,F,3,27,2,0,2,0,15148,74.6164,Y,48.08,F,47447,MRI,26-03-2008,102132,MPR-R; ; N3; Scaled,image volume,All,Both,Brain,native
+123_S_1300,MCI,F,3,28,2,0.5,0,0,7470,73.5644,Y,52.62,F,27689,MRI,08-03-2007,119334,MPR; ; N3; Scaled_2,image volume,All,Both,Brain,native
+123_S_1300,MCI,F,3,28,2,0.5,0,0,7470,73.5644,Y,52.62,F,27689,MRI,08-03-2007,66305,MPR; ; N3; Scaled,image volume,All,Both,Brain,native
+123_S_1300,MCI,F,3,29,0,0.5,4,0,12993,74.1342,Y,48.08,F,40837,MRI,02-10-2007,80894,MPR; ; N3; Scaled,image volume,All,Both,Brain,native
+126_S_0605,CN,F,3,30,2,0,0,0,9383,76.6822,Y,74.39,F,33873,MRI,19-06-2007,72858,MPR-R; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+126_S_0605,CN,F,3,30,0,0,0,0,4216,75.6712,Y,72.57,F,15665,MRI,15-06-2006,38861,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+126_S_0605,CN,F,3,28,0,0,0,0,8850,76.1808,Y,74.84,F,32170,MRI,18-12-2006,80796,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+126_S_0606,AD,F,4,23,0,0.5,0,0,4567,68.6055,Y,56.25,F,17191,MRI,20-07-2006,38918,MPR-R; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+126_S_0606,AD,F,4,25,1,1,11,18,10490,69.6329,Y,57.15,F,36749,MRI,30-07-2007,85706,MPR-R; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+126_S_0606,AD,F,4,25,0,1,6,13,6909,69.1397,Y,57.15,F,25770,MRI,31-01-2007,48923,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+126_S_0680,CN,M,2,28,3,0,0,0,4336,77.8932,Y,89.81,F,16099,MRI,05-07-2006,38926,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+126_S_0680,CN,M,2,30,0,0,0,0,6824,78.4466,Y,87.54,F,25497,MRI,23-01-2007,48932,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+126_S_0680,CN,M,2,30,2,0,1,0,10272,78.9425,Y,88,F,36255,MRI,23-07-2007,73200,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+126_S_0708,MCI,M,2,29,0,0.5,0,0,4491,76.4849,Y,84.82,F,16897,MRI,17-07-2006,38944,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+126_S_0708,MCI,M,2,27,0,0.5,1,6,6802,77.0027,Y,86.18,F,25438,MRI,22-01-2007,48941,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+126_S_0708,MCI,M,2,27,1,0.5,2,6,10286,77.5041,Y,85.73,F,36303,MRI,24-07-2007,72882,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+126_S_0709,MCI,M,3,28,0,0.5,1,9,7117,84.5123,Y,73.94,F,26483,MRI,14-02-2007,48954,MPR-R; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+126_S_0709,MCI,M,3,30,2,0.5,0,0,4600,83.9562,Y,74.843,F,17326,MRI,26-07-2006,38964,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+126_S_0709,MCI,M,3,30,2,0.5,3,10,10723,85.011,Y,72.57,F,37403,MRI,15-08-2007,74487,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+126_S_0784,AD,F,3,23,1,1,0,0,5362,76.0055,Y,68.95,F,19752,MRI,05-10-2006,39005,MPR-R; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+126_S_0784,AD,F,3,28,0,1,5,22,8188,76.5233,Y,72.57,F,29647,MRI,12-04-2007,72324,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+126_S_0784,AD,F,3,28,4,1,5,22,13131,77.0164,Y,71.12,F,41133,MRI,09-10-2007,82633,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+126_S_0865,MCI,M,3,27,1,0.5,0,0,5805,73.6767,Y,117.03,F,22295,MRI,06-11-2006,39028,MPR-R; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+126_S_0865,MCI,M,3,29,3,0.5,9,12,13666,74.6959,Y,111.58,F,42612,MRI,13-11-2007,85636,MPR-R; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+126_S_0865,MCI,M,3,28,0,0.5,9,10,9017,74.2329,Y,117.48,F,32688,MRI,28-05-2007,79382,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+126_S_0891,AD,F,3,20,0,1,2,19,8235,79.9507,Y,69.85,F,29819,MRI,16-04-2007,72895,MPR-R; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+126_S_0891,AD,F,3,22,0,1,0,0,5262,79.3945,Y,67.59,F,19386,MRI,25-09-2006,39054,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+126_S_0891,AD,F,3,22,1,1,2,20,13088,80.4192,Y,69.85,F,40996,MRI,04-10-2007,80899,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+126_S_1187,MCI,M,3,28,0,0.5,0,0,6691,76.5151,Y,61.23,F,25143,MRI,17-01-2007,48959,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+126_S_1187,MCI,M,3,26,0,0.5,1,0,10647,77.0849,Y,58.51,F,37232,MRI,13-08-2007,79250,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+126_S_1187,MCI,M,3,27,1,0.5,0,0,14366,77.526,Y,60.78,F,44779,MRI,21-01-2008,91954,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+126_S_1221,AD,M,3,21,3,0.5,0,0,6808,71.2712,Y,86.64,F,25457,MRI,23-01-2007,48976,MPR-R; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+126_S_1221,AD,M,3,21,0,1,3,11,14464,72.2849,Y,89.09,F,45110,MRI,28-01-2008,91967,MPR-R; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+126_S_1221,AD,M,3,20,0,1,2,11,10620,71.8082,Y,85.73,F,37138,MRI,07-08-2007,79259,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+127_S_0112,MCI,M,2,30,1,0.5,0,0,2965,70.7534,Y,77.47,F,11194,MRI,13-01-2006,35799,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+127_S_0112,MCI,M,2,29,0,0,4,0,4607,71.2877,Y,77.111,F,17349,MRI,27-07-2006,34353,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+127_S_0112,MCI,M,2,28,0,0.5,2,1,6954,71.8164,Y,78.47,F,25918,MRI,05-02-2007,97223,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+127_S_0259,CN,M,3,30,0,0,0,0,5310,71.189,Y,86.636,F,19555,MRI,21-09-2006,75336,MPR-R; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+127_S_0259,CN,M,3,30,1,0,0,0,3192,70.663,Y,86.64,F,12137,MRI,13-03-2006,34362,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+127_S_0259,CN,M,3,29,0,0,0,0,8022,71.7068,Y,87.54,F,29124,MRI,29-03-2007,66190,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+127_S_0260,CN,F,2,30,0,0,0,0,3263,78.7808,Y,73.12,F,12419,MRI,23-03-2006,34384,MPR-R; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+127_S_0260,CN,F,2,28,0,0,0,0,5720,79.3945,Y,73.48,F,21865,MRI,02-11-2006,86120,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+127_S_0260,CN,F,2,29,1,0,0,0,8782,79.9068,Y,73.94,F,31942,MRI,08-05-2007,63556,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+127_S_0393,MCI,F,2,28,2,0.5,0,0,3510,86.2356,Y,76.93,F,13200,MRI,12-04-2006,34393,MPR-R; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+127_S_0393,MCI,F,2,28,0,0.5,0,6,6000,86.8466,Y,75.84,F,22874,MRI,21-11-2006,88086,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+127_S_0393,MCI,F,2,24,2,0.5,4,13,9172,87.3863,Y,78.018,F,33202,MRI,06-06-2007,63574,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+127_S_0394,MCI,F,3,27,0,0.5,0,0,3905,84.1671,Y,57.97,F,14603,MRI,17-05-2006,34398,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+127_S_0394,MCI,F,3,19,0,0.5,0,11,6535,84.8027,Y,58.06,F,24665,MRI,04-01-2007,63592,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+127_S_0394,MCI,F,3,21,3,1,0,6,9479,85.2822,Y,56.7,F,34198,MRI,28-06-2007,79391,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+127_S_0431,AD,M,3,24,0,0.5,0,0,3903,84.2082,Y,92.17,F,14595,MRI,17-05-2006,34443,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+127_S_0431,AD,M,3,19,0,1,10,13,6538,84.8438,Y,81.65,F,24680,MRI,04-01-2007,63601,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+127_S_0431,AD,M,3,14,1,1,8,20,9482,85.3233,Y,82.1,F,34212,MRI,28-06-2007,80737,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+127_S_0622,CN,F,3,30,0,0,0,0,4166,74.6658,Y,52.44,F,15473,MRI,13-06-2006,34452,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+127_S_0622,CN,F,3,30,0,0,1,0,6337,75.1671,Y,53.16,F,24014,MRI,13-12-2006,86188,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+127_S_0622,CN,F,3,30,2,0,0,0,9473,75.7041,Y,56.7,F,34161,MRI,27-06-2007,72343,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+127_S_0684,CN,F,3,29,1,0,0,0,11168,78.6,Y,51.71,F,37893,MRI,20-08-2007,74509,MPR-R; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+127_S_0684,CN,F,3,29,1,0,0,0,4458,77.4959,Y,49.442,F,16759,MRI,13-07-2006,34458,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+127_S_0684,CN,F,3,30,0,0,0,1,7182,78.1014,Y,52.16,F,26720,MRI,19-02-2007,63610,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+127_S_0754,AD,F,3,23,5,0.5,0,0,5014,67.7178,Y,63.05,F,18515,MRI,05-09-2006,80760,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+127_S_0754,AD,F,3,26,0,1,3,11,7620,68.2356,Y,66.224,F,28059,MRI,13-03-2007,72361,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+127_S_0754,AD,F,3,24,3,1,10,16,13114,68.8,Y,68.04,F,41085,MRI,05-10-2007,80908,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+127_S_0844,AD,F,3,22,2,0.5,0,0,5393,85.3753,Y,65.05,F,19874,MRI,09-10-2006,34471,MPR-R; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+127_S_0844,AD,F,3,22,0,1,1,25,8907,85.9753,Y,66.22,F,32360,MRI,16-05-2007,63619,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+127_S_0844,AD,F,3,24,1,1,1,18,13479,86.4219,Y,66.224,F,42000,MRI,26-10-2007,82642,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+127_S_0925,MCI,M,3,27,0,0.5,3,1,8955,75.1863,Y,86.636,F,32506,MRI,21-05-2007,82664,MPR-R; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+127_S_0925,MCI,M,3,29,1,0.5,0,0,5681,74.6301,Y,87.27,F,21560,MRI,30-10-2006,67266,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+127_S_0925,MCI,M,3,28,2,0.5,3,1,13786,75.7041,Y,86.18,F,43012,MRI,26-11-2007,85641,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+127_S_1032,MCI,M,3,27,3,0.5,0,0,5791,84.8247,Y,77.47,F,22259,MRI,08-11-2006,63632,MPR-R; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+127_S_1032,MCI,M,3,28,0,0.5,7,11,9370,85.4356,Y,78.471,F,33831,MRI,19-06-2007,73218,MPR-R; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+127_S_1032,MCI,M,3,30,1,0.5,8,5,14203,85.9425,Y,75.75,F,44227,MRI,21-12-2007,87319,MPR-R; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+127_S_1140,MCI,M,3,25,3,0.5,0,0,6425,84.5123,Y,57.79,F,24278,MRI,14-12-2006,63637,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+127_S_1140,MCI,M,3,27,0,0.5,0,0,9545,85.0685,Y,55.79,F,34464,MRI,05-07-2007,72909,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+127_S_1140,MCI,M,3,28,4,0.5,0,0,14300,85.5973,Y,53.52,F,44548,MRI,14-01-2008,94649,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+127_S_1382,AD,M,3,21,3,1,0,0,7683,64.3123,Y,127.459,F,28261,MRI,16-03-2007,66310,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+127_S_1382,AD,M,3,18,0,1,20,26,13402,64.9068,Y,127.459,F,41760,MRI,19-10-2007,81423,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+127_S_1382,AD,M,3,17,4,2,26,27,15679,65.4219,Y,127.459,F,49319,MRI,24-04-2008,105481,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+127_S_1419,MCI,M,3,29,3,0.5,6,0,17491,79.1123,Y,103.42,F,55777,MRI,22-08-2008,121684,MPR-R; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+127_S_1419,MCI,M,3,28,2,0.5,0,0,10120,78.0274,Y,102.058,F,35957,MRI,23-07-2007,73656,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+127_S_1419,MCI,M,3,28,0,0.5,0,2,14926,78.6466,Y,105.233,F,46705,MRI,05-03-2008,101933,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+127_S_1427,MCI,F,3,27,2,0.5,0,0,11182,69.6795,Y,101.6,F,37933,MRI,20-08-2007,91126,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+127_S_1427,MCI,F,3,22,0,0.5,1,3,14728,70.1808,Y,99.79,F,46021,MRI,19-02-2008,99191,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+127_S_1427,MCI,F,3,20,3,0.5,12,9,17655,70.7178,Y,96.162,F,56227,MRI,02-09-2008,121689,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+128_S_0863,CN,M,3,26,0,0,0,0,5230,79.2904,Y,92.08,F,19272,MRI,25-09-2006,119408,MPR; GradWarp; B1 Correction; N3; Scaled_2,image volume,All,Both,Brain,native
+128_S_0863,CN,M,3,26,0,0,0,0,5230,79.2904,Y,92.08,F,19272,MRI,25-09-2006,98875,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+128_S_0863,CN,M,3,29,0,0,1,0,8151,79.8329,Y,89.36,F,29526,MRI,11-04-2007,79035,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+128_S_0863,CN,M,3,28,0,0,0,0,13371,80.3507,Y,91.17,F,41651,MRI,17-10-2007,89910,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+128_S_0947,MCI,F,3,25,0,1,6,10,8259,83.2082,Y,60.33,F,29901,MRI,17-04-2007,69086,MPR-R; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+128_S_0947,MCI,F,3,22,1,1,1,3,13561,83.7534,Y,61.23,F,42240,MRI,02-11-2007,90605,MPR-R; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+128_S_0947,MCI,F,3,25,2,0.5,0,0,5389,82.6795,Y,58.51,F,19859,MRI,06-10-2006,119409,MPR; GradWarp; B1 Correction; N3; Scaled_2,image volume,All,Both,Brain,native
+128_S_0947,MCI,F,3,25,2,0.5,0,0,5389,82.6795,Y,58.51,F,19859,MRI,06-10-2006,69073,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+128_S_1043,MCI,M,3,25,4,0.5,0,0,5925,68.6055,Y,90.04,F,22562,MRI,15-11-2006,119410,MPR; GradWarp; B1 Correction; N3; Scaled_2,image volume,All,Both,Brain,native
+128_S_1043,MCI,M,3,25,4,0.5,0,0,5925,68.6055,Y,90.04,F,22562,MRI,15-11-2006,69091,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+128_S_1043,MCI,M,3,29,0,0.5,2,0,9503,69.2329,Y,89.81,F,34309,MRI,02-07-2007,69278,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+128_S_1043,MCI,M,3,25,4,0.5,1,1,13941,69.6658,Y,90.13,F,43514,MRI,07-12-2007,89919,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+128_S_1088,MCI,M,3,24,3,0.5,0,0,6279,88.0192,Y,65.77,F,23787,MRI,07-12-2006,69104,MPR-R; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+128_S_1088,MCI,M,3,25,3,1,3,8,14548,89.1808,Y,61.69,F,45402,MRI,04-02-2008,91985,MPR-R; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+128_S_1088,MCI,M,3,21,0,0.5,4,6,9741,88.6301,Y,64.41,F,35269,MRI,18-07-2007,69724,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+128_S_1148,MCI,F,4,25,1,0.5,0,0,6402,69.8082,Y,73.48,F,24199,MRI,18-12-2006,69113,MPR-R; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+128_S_1148,MCI,F,4,24,0,0.5,5,1,9551,70.3534,Y,74.39,F,34485,MRI,05-07-2007,69381,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+128_S_1148,MCI,F,4,24,3,0.5,4,3,14354,70.8904,Y,74.84,F,44726,MRI,17-01-2008,92602,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+128_S_1242,CN,F,2,30,0,0,2,1,10887,71.7397,Y,62.37,F,37564,MRI,16-08-2007,90623,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+128_S_1242,CN,F,2,28,1,0.5,4,0,15108,72.337,Y,62.82,F,47329,MRI,21-03-2008,105428,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+128_S_1242,CN,F,2,26,2,0,0,0,6960,71.2137,Y,62.6,F,25934,MRI,05-02-2007,134505,MPR; GradWarp; N3; Scaled,image volume,All,Both,Brain,native
+128_S_1407,MCI,F,3,24,4,0.5,0,0,9364,74.7288,Y,51.71,F,33808,MRI,06-06-2007,69390,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+128_S_1407,MCI,F,3,26,0,0.5,4,5,14357,75.3479,Y,51.71,F,44739,MRI,18-01-2008,92628,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+128_S_1407,MCI,F,3,0,0,-1,0,0,17660,75.9808,Y,56.6991,F,56244,MRI,05-09-2008,122382,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+128_S_1408,MCI,M,3,26,3,0.5,0,0,10371,71.6164,Y,118.61,F,36472,MRI,27-07-2007,69289,MPR-R; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+128_S_1408,MCI,M,3,30,0,0.5,13,3,14510,72.1342,Y,115,F,45274,MRI,01-02-2008,91999,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+128_S_1408,MCI,M,3,30,6,0.5,11,1,17784,72.7671,Y,118.84,F,56669,MRI,19-09-2008,121703,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+129_S_0778,CN,M,3,28,1,0,0,0,4821,72.5808,Y,90.72,F,17848,MRI,14-08-2006,91135,MPR; GradWarp; N3; Scaled,image volume,All,Both,Brain,native
+129_S_0778,CN,M,3,28,1,0,0,0,13013,73.6849,Y,84.82,F,40901,MRI,21-09-2007,81964,MPR; GradWarp; N3; Scaled,image volume,All,Both,Brain,native
+129_S_0778,CN,M,3,27,0,0,0,0,15220,73.0904,Y,92.17,F,47660,MRI,16-02-2007,102525,MPR; GradWarp; N3; Scaled,image volume,All,Both,Brain,native
+129_S_1246,MCI,M,3,30,0,0.5,2,2,13243,73.1507,Y,68.04,F,41373,MRI,10-10-2007,82678,MPR-R; GradWarp; N3; Scaled,image volume,All,Both,Brain,native
+129_S_1246,MCI,M,3,30,0,0.5,3,6,15473,73.6521,Y,68.95,F,48653,MRI,10-04-2008,104531,MPR-R; GradWarp; N3; Scaled,image volume,All,Both,Brain,native
+129_S_1246,MCI,M,3,29,1,0.5,0,0,7128,72.4767,Y,68.63,F,26515,MRI,06-02-2007,69733,MPR; GradWarp; N3; Scaled,image volume,All,Both,Brain,native
+130_S_0102,MCI,F,3,13,2,0.5,6,5,6707,71.4082,Y,68.04,F,25193,MRI,17-01-2007,68176,MPR-R; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+130_S_0102,MCI,F,3,25,2,0.5,0,0,2857,70.3534,Y,68.04,F,10746,MRI,28-12-2005,39460,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+130_S_0102,MCI,F,3,20,0,0.5,2,5,4662,70.9315,Y,68.95,F,17521,MRI,27-07-2006,39147,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+130_S_0232,CN,M,3,29,1,0,0,0,3137,78.1315,Y,100.7,F,11928,MRI,01-03-2006,39108,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+130_S_0232,CN,M,3,30,0,0,0,3,5203,78.6466,Y,99.34,F,19172,MRI,05-09-2006,39157,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+130_S_0232,CN,M,3,30,1,0,2,1,7439,79.1425,Y,97.07,F,27593,MRI,05-03-2007,65489,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+130_S_0423,MCI,M,3,29,1,0.5,0,0,4028,79.4877,Y,79.61,F,15030,MRI,30-05-2006,39132,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+130_S_0423,MCI,M,3,27,0,1,2,20,7067,80.1945,Y,77.11,F,26304,MRI,12-02-2007,86111,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+130_S_0423,MCI,M,3,27,2,1,1,17,11268,80.7123,Y,76.2,F,38067,MRI,20-08-2007,75318,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+130_S_0505,MCI,M,3,28,4,0.5,0,0,4595,79.6438,Y,75.3,F,17292,MRI,25-07-2006,39142,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+130_S_0505,MCI,M,3,27,0,0.5,4,0,8119,80.3507,Y,68.04,F,29451,MRI,09-04-2007,70867,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+130_S_0505,MCI,M,3,29,4,0.5,1,0,13248,80.8548,Y,71.67,F,41388,MRI,10-10-2007,83797,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+130_S_0783,MCI,F,3,29,2,0.5,0,0,4896,79.3479,Y,65.32,F,18023,MRI,17-08-2006,39152,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+130_S_0783,MCI,F,3,29,0,0.5,2,5,7641,79.9151,Y,65.32,F,28139,MRI,12-03-2007,65498,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+130_S_0783,MCI,F,3,29,1,0.5,3,4,14860,80.3753,Y,63.5,F,46496,MRI,27-08-2007,107916,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+130_S_0886,CN,F,2,28,0,0,0,0,5311,71.3753,Y,101.15,F,19561,MRI,29-09-2006,39171,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+130_S_0886,CN,F,2,30,0,0,1,0,8153,71.9068,Y,102.06,F,29534,MRI,11-04-2007,66332,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+130_S_0886,CN,F,2,30,0,0,0,0,13118,72.4,Y,99.34,F,41101,MRI,08-10-2007,80944,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+130_S_0956,AD,F,3,23,2,0.5,0,0,5529,63.926,Y,77.11,F,20667,MRI,20-10-2006,39185,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+130_S_0956,AD,F,3,27,0,0.5,1,2,8216,64.4137,Y,75.98,F,29748,MRI,16-04-2007,63725,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+130_S_0956,AD,F,3,28,2,0.5,0,5,13521,64.9589,Y,80.74,F,42129,MRI,01-11-2007,82691,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+130_S_0969,CN,M,3,29,1,0,0,0,5507,70.0904,Y,68.039,F,20385,MRI,18-10-2006,39275,MPR-R; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+130_S_0969,CN,M,3,29,0,0,3,0,8753,70.6411,Y,66.22,F,31840,MRI,07-05-2007,63738,MPR-R; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+130_S_0969,CN,M,3,30,1,0,0,0,13704,71.1452,Y,62.6,F,42733,MRI,07-11-2007,86004,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+130_S_1200,CN,M,3,30,4,0,0,0,6675,84.5644,Y,73.03,F,25090,MRI,15-01-2007,63752,MPR-R; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+130_S_1200,CN,M,3,27,4,0,2,1,14434,85.5836,Y,65.771,F,45007,MRI,22-01-2008,92035,MPR-R; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+130_S_1200,CN,M,3,28,0,0.5,1,1,10918,85.1452,Y,68.039,F,37603,MRI,15-08-2007,74532,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+130_S_1201,AD,F,3,26,3,1,0,0,6673,75.6411,Y,61.23,F,25082,MRI,15-01-2007,63757,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+130_S_1201,AD,F,3,24,0,1,5,22,10634,76.2,Y,65.77,F,37190,MRI,07-08-2007,74541,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+130_S_1201,AD,F,3,23,2,1,3,21,14525,76.6959,Y,68.04,F,45316,MRI,04-02-2008,92040,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+130_S_1290,AD,F,3,21,0,0.5,3,20,11808,79.9945,Y,62.14,F,39041,MRI,07-09-2007,79048,MPR-R; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+130_S_1290,AD,F,3,25,1,0.5,0,0,6990,79.4137,Y,60.33,F,26038,MRI,07-02-2007,63766,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+130_S_1290,AD,F,3,19,2,1,7,25,14794,80.4438,Y,62.6,F,46233,MRI,18-02-2008,97264,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+130_S_1337,AD,M,3,25,3,1,0,0,7437,71.4795,Y,94.8,F,27584,MRI,05-03-2007,63775,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+130_S_1337,AD,M,3,22,0,1,4,16,12962,72.0411,Y,86.64,F,40791,MRI,26-09-2007,80953,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+130_S_1337,AD,M,3,25,2,1,3,16,14959,72.4959,Y,89.81,F,46817,MRI,10-03-2008,101956,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+131_S_0123,CN,M,3,30,0,0,0,0,5710,74.2164,Y,64.41,F,21795,MRI,01-11-2006,47966,MPR-R; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+131_S_0123,CN,M,3,30,2,0,0,0,2907,73.4329,Y,64.41,F,10960,MRI,19-01-2006,63784,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+131_S_0123,CN,M,3,30,2,0,0,0,7150,74.5068,Y,65.771,F,26596,MRI,15-02-2007,70876,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+131_S_0384,MCI,M,3,29,0,0.5,0,0,3388,79.874,Y,78.02,F,12790,MRI,27-03-2006,48002,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+131_S_0384,MCI,M,3,29,0,0.5,0,0,6469,80.611,Y,73.94,F,24435,MRI,21-12-2006,67756,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+131_S_0384,MCI,M,3,30,0,0.5,0,0,9362,81.1041,Y,78.02,F,33802,MRI,19-06-2007,80769,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+131_S_0441,CN,F,3,30,0,0,0,0,6735,73.5178,Y,81.65,F,25266,MRI,19-01-2007,86106,MPR-R; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+131_S_0441,CN,F,3,30,0,0,0,0,9293,73.9178,Y,81.647,F,33587,MRI,14-06-2007,71664,MPR-R; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+131_S_0441,CN,F,3,29,0,0,0,0,3627,72.7781,Y,81.65,F,13681,MRI,24-04-2006,48029,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+131_S_0457,AD,F,3,25,2,0.5,0,0,3730,82.8466,Y,50.8,F,13976,MRI,03-05-2006,92406,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+131_S_0457,AD,F,3,22,0,1,3,22,6164,83.4356,Y,55.34,F,23386,MRI,04-12-2006,70885,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+131_S_0457,AD,F,3,20,1,1,2,24,9754,84.0575,Y,55.338,F,35326,MRI,19-07-2007,72919,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+131_S_0497,AD,M,4,23,0,1,0,0,4110,75.7699,Y,80.74,F,15315,MRI,07-06-2006,48038,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+131_S_0497,AD,M,4,24,0,1,6,26,6625,76.3644,Y,88.45,F,24936,MRI,10-01-2007,70896,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+131_S_0497,AD,M,4,23,2,1,9,26,9353,76.8027,Y,88.9,F,33777,MRI,19-06-2007,71669,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+131_S_1301,CN,F,3,30,1,0,0,0,7234,72.2055,Y,60.781,F,26899,MRI,21-02-2007,63793,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+131_S_1301,CN,F,3,30,0,0,0,0,12991,72.8164,Y,59.42,F,40835,MRI,02-10-2007,92735,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+131_S_1301,CN,F,3,30,0,0,0,0,15303,73.3233,Y,59.87,F,47966,MRI,04-04-2008,102827,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+131_S_1389,MCI,M,2,29,1,0.5,0,0,7675,76.2082,Y,83.91,F,28232,MRI,16-03-2007,81972,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+131_S_1389,MCI,M,2,28,0,0.5,0,0,13446,76.8192,Y,78.02,F,41908,MRI,25-10-2007,83147,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+131_S_1389,MCI,M,2,28,0,0.5,2,1,15659,77.3178,Y,75.75,F,49258,MRI,24-04-2008,105791,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+132_S_0987,MCI,F,4,24,0,0.5,0,0,7783,79.1562,Y,69.5,F,28506,MRI,21-03-2007,83166,MPR-R; GradWarp; N3; Scaled,image volume,All,Both,Brain,native
+132_S_0987,MCI,F,4,24,0,0.5,3,10,13387,79.7315,Y,71,F,41898,MRI,17-10-2007,83173,MPR-R; GradWarp; N3; Scaled,image volume,All,Both,Brain,native
+132_S_0987,MCI,F,4,24,1,1,5,9,16003,80.2904,Y,72,F,50300,MRI,08-05-2008,107726,MPR; GradWarp; N3; Scaled,image volume,All,Both,Brain,native
+133_S_0433,CN,F,3,29,0,0,0,0,6168,86.1616,Y,50.35,F,23400,MRI,29-11-2006,119482,MPR-R; GradWarp; B1 Correction; N3; Scaled_2,image volume,All,Both,Brain,native
+133_S_0433,CN,F,3,29,0,0,0,0,6168,86.1616,Y,50.35,F,23400,MRI,29-11-2006,81618,MPR-R; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+133_S_0433,CN,F,3,27,0,0,0,0,3725,85.5863,Y,53.75,F,13952,MRI,03-05-2006,119480,MPR; GradWarp; B1 Correction; N3; Scaled_2,image volume,All,Both,Brain,native
+133_S_0433,CN,F,3,29,0,0,0,0,8807,86.6055,Y,51.71,F,32028,MRI,10-05-2007,119483,MPR; GradWarp; B1 Correction; N3; Scaled_2,image volume,All,Both,Brain,native
+133_S_0433,CN,F,3,27,0,0,0,0,3725,85.5863,Y,53.75,F,13952,MRI,03-05-2006,39937,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+133_S_0433,CN,F,3,29,0,0,0,0,8807,86.6055,Y,51.71,F,32028,MRI,10-05-2007,72540,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+133_S_0488,CN,F,3,30,6,0,1,0,9644,72.1562,Y,57.97,F,34917,MRI,11-07-2007,119490,MPR-R; GradWarp; B1 Correction; N3; Scaled_2,image volume,All,Both,Brain,native
+133_S_0488,CN,F,3,30,6,0,1,0,9644,72.1562,Y,57.97,F,34917,MRI,11-07-2007,89796,MPR-R; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+133_S_0488,CN,F,3,30,0,0,0,0,3780,70.9836,Y,58.97,F,14150,MRI,09-05-2006,119486,MPR; GradWarp; B1 Correction; N3; Scaled_2,image volume,All,Both,Brain,native
+133_S_0488,CN,F,3,28,0,0.5,1,0,6424,71.5836,Y,61.23,F,24271,MRI,14-12-2006,128367,MPR; GradWarp; B1 Correction; N3; Scaled_2,image volume,All,Both,Brain,native
+133_S_0488,CN,F,3,30,0,0,0,0,3780,70.9836,Y,58.97,F,14150,MRI,09-05-2006,107934,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+133_S_0488,CN,F,3,28,0,0.5,1,0,6424,71.5836,Y,61.23,F,24271,MRI,14-12-2006,319786,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+133_S_0525,CN,F,3,30,3,0,0,0,4016,70.1425,Y,72.12,F,14991,MRI,30-05-2006,119510,MPR; GradWarp; B1 Correction; N3; Scaled_2,image volume,All,Both,Brain,native
+133_S_0525,CN,F,3,29,0,0,0,0,6984,70.8192,Y,70.76,F,26013,MRI,01-02-2007,119512,MPR; GradWarp; B1 Correction; N3; Scaled_2,image volume,All,Both,Brain,native
+133_S_0525,CN,F,3,30,2,0,0,0,10414,71.2986,Y,70.76,F,36578,MRI,26-07-2007,119514,MPR; GradWarp; B1 Correction; N3; Scaled_2,image volume,All,Both,Brain,native
+133_S_0525,CN,F,3,30,3,0,0,0,4016,70.1425,Y,72.12,F,14991,MRI,30-05-2006,39980,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+133_S_0525,CN,F,3,29,0,0,0,0,6984,70.8192,Y,70.76,F,26013,MRI,01-02-2007,51034,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+133_S_0525,CN,F,3,30,2,0,0,0,10414,71.2986,Y,70.76,F,36578,MRI,26-07-2007,72935,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+133_S_0629,MCI,M,4,29,1,0.5,0,0,4290,70.9096,Y,76.2,F,15915,MRI,23-06-2006,119520,MPR-R; GradWarp; B1 Correction; N3; Scaled_2,image volume,All,Both,Brain,native
+133_S_0629,MCI,M,4,29,1,0.5,0,0,4290,70.9096,Y,76.2,F,15915,MRI,23-06-2006,40954,MPR-R; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+133_S_0629,MCI,M,4,27,0,0.5,0,0,6914,71.5178,Y,76.2,F,25789,MRI,31-01-2007,119522,MPR; GradWarp; B1 Correction; N3; Scaled_2,image volume,All,Both,Brain,native
+133_S_0629,MCI,M,4,27,1,0.5,0,0,10296,71.9973,Y,77.11,F,36337,MRI,25-07-2007,119524,MPR; GradWarp; B1 Correction; N3; Scaled_2,image volume,All,Both,Brain,native
+133_S_0629,MCI,M,4,27,0,0.5,0,0,6914,71.5178,Y,76.2,F,25789,MRI,31-01-2007,51050,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+133_S_0629,MCI,M,4,27,1,0.5,0,0,10296,71.9973,Y,77.11,F,36337,MRI,25-07-2007,92705,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+133_S_0638,MCI,M,4,23,1,0.5,0,0,4431,83.2384,Y,64.86,F,16608,MRI,26-06-2006,119527,MPR; GradWarp; B1 Correction; N3; Scaled_2,image volume,All,Both,Brain,native
+133_S_0638,MCI,M,4,23,0,0.5,5,19,7374,83.9178,Y,66.22,F,27348,MRI,01-03-2007,119529,MPR; GradWarp; B1 Correction; N3; Scaled_2,image volume,All,Both,Brain,native
+133_S_0638,MCI,M,4,19,2,0.5,6,23,11802,84.4384,Y,65.77,F,39021,MRI,07-09-2007,119532,MPR; GradWarp; B1 Correction; N3; Scaled_2,image volume,All,Both,Brain,native
+133_S_0638,MCI,M,4,23,1,0.5,0,0,4431,83.2384,Y,64.86,F,16608,MRI,26-06-2006,67531,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+133_S_0638,MCI,M,4,23,0,0.5,5,19,7374,83.9178,Y,66.22,F,27348,MRI,01-03-2007,81551,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+133_S_0638,MCI,M,4,19,2,0.5,6,23,11802,84.4384,Y,65.77,F,39021,MRI,07-09-2007,79053,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+133_S_0727,MCI,F,4,26,3,0.5,0,0,5045,69.3781,Y,59.42,F,18620,MRI,07-09-2006,119534,MPR-R; GradWarp; B1 Correction; N3; Scaled_2,image volume,All,Both,Brain,native
+133_S_0727,MCI,F,4,26,3,0.5,0,0,5045,69.3781,Y,59.42,F,18620,MRI,07-09-2006,66356,MPR-R; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+133_S_0727,MCI,F,4,28,0,0.5,3,8,7653,69.8959,Y,63.503,F,28176,MRI,15-03-2007,119537,MPR; GradWarp; B1 Correction; N3; Scaled_2,image volume,All,Both,Brain,native
+133_S_0727,MCI,F,4,25,1,0.5,0,4,12010,70.4137,Y,64.32,F,39528,MRI,20-09-2007,119539,MPR; GradWarp; B1 Correction; N3; Scaled_2,image volume,All,Both,Brain,native
+133_S_0727,MCI,F,4,28,0,0.5,3,8,7653,69.8959,Y,63.503,F,28176,MRI,15-03-2007,63810,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+133_S_0727,MCI,F,4,25,1,0.5,0,4,12010,70.4137,Y,64.32,F,39528,MRI,20-09-2007,90632,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+133_S_0771,MCI,F,3,28,0,0.5,0,0,5034,74.3096,Y,65.77,F,18575,MRI,05-09-2006,119602,MPR-R; GradWarp; B1 Correction; N3; Scaled_2,image volume,All,Both,Brain,native
+133_S_0771,MCI,F,3,29,0,0.5,0,0,13253,75.4082,Y,71.67,F,41411,MRI,11-10-2007,119606,MPR-R; GradWarp; B1 Correction; N3; Scaled_2,image volume,All,Both,Brain,native
+133_S_0771,MCI,F,3,28,0,0.5,0,0,5034,74.3096,Y,65.77,F,18575,MRI,05-09-2006,92286,MPR-R; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+133_S_0771,MCI,F,3,29,0,0.5,0,0,13253,75.4082,Y,71.67,F,41411,MRI,11-10-2007,91189,MPR-R; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+133_S_0771,MCI,F,3,29,0,0.5,0,0,8078,74.8822,Y,68.04,F,29296,MRI,02-04-2007,119604,MPR; GradWarp; B1 Correction; N3; Scaled_2,image volume,All,Both,Brain,native
+133_S_0771,MCI,F,3,29,0,0.5,0,0,8078,74.8822,Y,68.04,F,29296,MRI,02-04-2007,72556,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+133_S_0792,MCI,M,3,30,0,0.5,0,0,4972,73.5836,Y,64.86,F,18306,MRI,25-08-2006,119610,MPR; GradWarp; B1 Correction; N3; Scaled_2,image volume,All,Both,Brain,native
+133_S_0792,MCI,M,3,29,0,0.5,8,5,8053,74.1781,Y,60.78,F,29222,MRI,30-03-2007,119622,MPR; GradWarp; B1 Correction; N3; Scaled_2,image volume,All,Both,Brain,native
+133_S_0792,MCI,M,3,29,1,0.5,5,0,12297,74.6685,Y,60.78,F,39994,MRI,25-09-2007,119623,MPR; GradWarp; B1 Correction; N3; Scaled_2,image volume,All,Both,Brain,native
+133_S_0792,MCI,M,3,30,0,0.5,0,0,4972,73.5836,Y,64.86,F,18306,MRI,25-08-2006,66373,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+133_S_0792,MCI,M,3,29,0,0.5,8,5,8053,74.1781,Y,60.78,F,29222,MRI,30-03-2007,81567,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+133_S_0792,MCI,M,3,29,1,0.5,5,0,12297,74.6685,Y,60.78,F,39994,MRI,25-09-2007,92721,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+133_S_0912,MCI,F,3,29,3,0.5,0,0,5396,74.0164,Y,75.3,F,19884,MRI,09-10-2006,119626,MPR; GradWarp; B1 Correction; N3; Scaled_2,image volume,All,Both,Brain,native
+133_S_0912,MCI,F,3,30,0,0.5,7,2,8340,74.5534,Y,77.11,F,30156,MRI,23-04-2007,119629,MPR; GradWarp; B1 Correction; N3; Scaled_2,image volume,All,Both,Brain,native
+133_S_0912,MCI,F,3,29,3,0.5,2,2,13549,75.0795,Y,78.47,F,42205,MRI,01-11-2007,119630,MPR; GradWarp; B1 Correction; N3; Scaled_2,image volume,All,Both,Brain,native
+133_S_0912,MCI,F,3,29,3,0.5,0,0,5396,74.0164,Y,75.3,F,19884,MRI,09-10-2006,40000,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+133_S_0912,MCI,F,3,30,0,0.5,7,2,8340,74.5534,Y,77.11,F,30156,MRI,23-04-2007,72565,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+133_S_0912,MCI,F,3,29,3,0.5,2,2,13549,75.0795,Y,78.47,F,42205,MRI,01-11-2007,88122,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+133_S_0913,MCI,F,3,26,1,0.5,0,0,6531,56.737,Y,54.43,F,24646,MRI,27-12-2006,119634,MPR; GradWarp; B1 Correction; N3; Scaled_2,image volume,All,Both,Brain,native
+133_S_0913,MCI,F,3,24,0,0.5,1,5,9753,57.2932,Y,65.32,F,35319,MRI,18-07-2007,119636,MPR; GradWarp; B1 Correction; N3; Scaled_2,image volume,All,Both,Brain,native
+133_S_0913,MCI,F,3,21,1,0.5,3,8,14359,57.7973,Y,65.77,F,44748,MRI,18-01-2008,119639,MPR; GradWarp; B1 Correction; N3; Scaled_2,image volume,All,Both,Brain,native
+133_S_0913,MCI,F,3,26,1,0.5,0,0,6531,56.737,Y,54.43,F,24646,MRI,27-12-2006,63819,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+133_S_0913,MCI,F,3,24,0,0.5,1,5,9753,57.2932,Y,65.32,F,35319,MRI,18-07-2007,92637,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+133_S_0913,MCI,F,3,21,1,0.5,3,8,14359,57.7973,Y,65.77,F,44748,MRI,18-01-2008,99113,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+133_S_1170,AD,M,3,23,2,0.5,0,0,6537,73.0603,Y,78.47,F,24674,MRI,29-12-2006,119651,MPR; GradWarp; B1 Correction; N3; Scaled_2,image volume,All,Both,Brain,native
+133_S_1170,AD,M,3,24,0,0.5,1,7,10464,73.6438,Y,75.3,F,36669,MRI,30-07-2007,119654,MPR; GradWarp; B1 Correction; N3; Scaled_2,image volume,All,Both,Brain,native
+133_S_1170,AD,M,3,24,0,0.5,1,6,14345,74.1123,Y,76.66,F,44696,MRI,17-01-2008,119656,MPR; GradWarp; B1 Correction; N3; Scaled_2,image volume,All,Both,Brain,native
+133_S_1170,AD,M,3,23,2,0.5,0,0,6537,73.0603,Y,78.47,F,24674,MRI,29-12-2006,89957,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+133_S_1170,AD,M,3,24,0,0.5,1,7,10464,73.6438,Y,75.3,F,36669,MRI,30-07-2007,81583,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+133_S_1170,AD,M,3,24,0,0.5,1,6,14345,74.1123,Y,76.66,F,44696,MRI,17-01-2008,92079,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+136_S_0086,CN,F,3,30,1,0,0,0,3508,80.3562,Y,68.04,F,13191,MRI,31-03-2006,119678,MPR-R; GradWarp; B1 Correction; N3; Scaled_2,image volume,All,Both,Brain,native
+136_S_0086,CN,F,3,30,1,0,0,0,3508,80.3562,Y,68.04,F,13191,MRI,31-03-2006,66413,MPR-R; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+136_S_0086,CN,F,3,30,0,0,0,0,5668,80.9397,Y,66.22,F,21528,MRI,30-10-2006,88141,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+136_S_0086,CN,F,3,30,1,0,0,0,8643,81.4411,Y,69.4,F,31414,MRI,01-05-2007,67771,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+136_S_0107,MCI,F,3,28,2,0.5,0,0,3077,60.8356,Y,76.34,F,11707,MRI,17-02-2006,119701,MPR; GradWarp; B1 Correction; N3; Scaled_2,image volume,All,Both,Brain,native
+136_S_0107,MCI,F,3,28,0,0.5,2,0,4980,61.3644,Y,77.11,F,18343,MRI,29-08-2006,119710,MPR; GradWarp; B1 Correction; N3; Scaled_2,image volume,All,Both,Brain,native
+136_S_0107,MCI,F,3,28,2,0.5,0,0,3077,60.8356,Y,76.34,F,11707,MRI,17-02-2006,40445,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+136_S_0107,MCI,F,3,28,0,0.5,2,0,4980,61.3644,Y,77.11,F,18343,MRI,29-08-2006,40437,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+136_S_0107,MCI,F,3,30,2,0.5,0,1,7317,61.8603,Y,77.11,F,27179,MRI,26-02-2007,66722,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+136_S_0184,CN,F,3,29,0,0,2,0,5036,78.9068,Y,85.73,F,18587,MRI,06-09-2006,119713,MPR-R; GradWarp; B1 Correction; N3; Scaled_2,image volume,All,Both,Brain,native
+136_S_0184,CN,F,3,29,0,0,2,0,5036,78.9068,Y,85.73,F,18587,MRI,06-09-2006,88154,MPR-R; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+136_S_0184,CN,F,3,29,0,0,0,0,3146,78.4027,Y,88,F,11974,MRI,06-03-2006,119711,MPR; GradWarp; B1 Correction; N3; Scaled_2,image volume,All,Both,Brain,native
+136_S_0184,CN,F,3,29,0,0,0,0,3146,78.4027,Y,88,F,11974,MRI,06-03-2006,40179,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+136_S_0184,CN,F,3,29,1,0,3,0,7697,79.4384,Y,88.9,F,28306,MRI,19-03-2007,83849,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+136_S_0186,CN,F,3,27,0,0,1,0,5243,81.0877,Y,84.37,F,19320,MRI,18-09-2006,119716,MPR-R; GradWarp; B1 Correction; N3; Scaled_2,image volume,All,Both,Brain,native
+136_S_0186,CN,F,3,27,0,0,1,0,5243,81.0877,Y,84.37,F,19320,MRI,18-09-2006,40223,MPR-R; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+136_S_0186,CN,F,3,27,2,0,0,0,3098,80.5233,Y,88,F,11774,MRI,24-02-2006,119715,MPR; GradWarp; B1 Correction; N3; Scaled_2,image volume,All,Both,Brain,native
+136_S_0186,CN,F,3,27,2,0,0,0,3098,80.5233,Y,88,F,11774,MRI,24-02-2006,40201,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+136_S_0186,CN,F,3,28,2,0.5,0,0,7421,81.5479,Y,82.55,F,27525,MRI,05-03-2007,66418,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+136_S_0194,AD,F,3,24,2,0.5,0,0,3504,80.5562,Y,47.174,F,13178,MRI,10-04-2006,119717,MPR-R; GradWarp; B1 Correction; N3; Scaled_2,image volume,All,Both,Brain,native
+136_S_0194,AD,F,3,24,0,0.5,13,11,5499,81.074,Y,45.813,F,20331,MRI,16-10-2006,119719,MPR-R; GradWarp; B1 Correction; N3; Scaled_2,image volume,All,Both,Brain,native
+136_S_0194,AD,F,3,24,2,0.5,0,0,3504,80.5562,Y,47.174,F,13178,MRI,10-04-2006,40239,MPR-R; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+136_S_0194,AD,F,3,24,0,0.5,13,11,5499,81.074,Y,45.813,F,20331,MRI,16-10-2006,86097,MPR-R; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+136_S_0194,AD,F,3,25,5,0.5,8,12,8049,81.5342,Y,44.91,F,29207,MRI,02-04-2007,66731,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+136_S_0195,MCI,M,3,20,4,0.5,4,7,7983,80.6904,Y,55.79,F,29004,MRI,27-03-2007,81596,MPR-R; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+136_S_0195,MCI,M,3,25,2,0.5,0,0,3294,79.6521,Y,53.977,F,12523,MRI,13-03-2006,119720,MPR; GradWarp; B1 Correction; N3; Scaled_2,image volume,All,Both,Brain,native
+136_S_0195,MCI,M,3,26,0,0.5,7,3,5316,80.2082,Y,56.7,F,19599,MRI,02-10-2006,119722,MPR; GradWarp; B1 Correction; N3; Scaled_2,image volume,All,Both,Brain,native
+136_S_0195,MCI,M,3,25,2,0.5,0,0,3294,79.6521,Y,53.977,F,12523,MRI,13-03-2006,40452,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+136_S_0195,MCI,M,3,26,0,0.5,7,3,5316,80.2082,Y,56.7,F,19599,MRI,02-10-2006,91201,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+136_S_0196,CN,F,3,29,0,0,2,0,5549,78.5836,Y,82.1,F,20812,MRI,23-10-2006,40292,MPR-R; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+136_S_0196,CN,F,3,29,1,0,0,0,3535,78.0658,Y,82.55,F,13253,MRI,17-04-2006,119724,MPR; GradWarp; B1 Correction; N3; Scaled_2,image volume,All,Both,Brain,native
+136_S_0196,CN,F,3,29,1,0,0,0,3535,78.0658,Y,82.55,F,13253,MRI,17-04-2006,40260,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+136_S_0196,CN,F,3,28,2,0.5,9,2,8760,79.1205,Y,83.01,F,31861,MRI,07-05-2007,63828,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+136_S_0299,AD,F,3,26,4,0.5,0,0,3684,89.1699,Y,66,F,13839,MRI,01-05-2006,119726,MPR; GradWarp; B1 Correction; N3; Scaled_2,image volume,All,Both,Brain,native
+136_S_0299,AD,F,3,26,4,0.5,0,0,3684,89.1699,Y,66,F,13839,MRI,01-05-2006,40312,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+136_S_0299,AD,F,3,27,0,0.5,8,3,5793,89.6932,Y,68.039,F,22267,MRI,08-11-2006,40303,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+136_S_0299,AD,F,3,25,2,0.5,2,5,8872,90.2055,Y,68.04,F,32246,MRI,14-05-2007,66745,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+136_S_0300,AD,M,4,23,1,1,0,0,3775,56.4822,Y,83.91,F,14136,MRI,09-05-2006,119728,MPR; GradWarp; B1 Correction; N3; Scaled_2,image volume,All,Both,Brain,native
+136_S_0300,AD,M,4,23,1,1,0,0,3775,56.4822,Y,83.91,F,14136,MRI,09-05-2006,40328,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+136_S_0300,AD,M,4,23,0,0.5,2,8,5942,57.0027,Y,85.28,F,22632,MRI,15-11-2006,81601,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+136_S_0300,AD,M,4,28,2,1,2,9,9040,57.537,Y,83.46,F,32746,MRI,29-05-2007,66759,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+136_S_0426,AD,M,3,24,1,0.5,0,0,3898,79.6877,Y,80.29,F,14581,MRI,16-05-2006,119730,MPR; GradWarp; B1 Correction; N3; Scaled_2,image volume,All,Both,Brain,native
+136_S_0426,AD,M,3,24,1,0.5,0,0,3898,79.6877,Y,80.29,F,14581,MRI,16-05-2006,40356,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+136_S_0426,AD,M,3,23,0,0.5,2,5,6113,80.2329,Y,77.56,F,23220,MRI,01-12-2006,81610,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+136_S_0426,AD,M,3,25,1,0.5,4,4,9104,80.7397,Y,74.84,F,32980,MRI,04-06-2007,66778,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+136_S_0429,MCI,M,3,25,1,0.5,0,0,4183,62.8027,Y,83.91,F,15534,MRI,14-06-2006,119732,MPR-R; GradWarp; B1 Correction; N3; Scaled_2,image volume,All,Both,Brain,native
+136_S_0429,MCI,M,3,25,1,0.5,0,0,4183,62.8027,Y,83.91,F,15534,MRI,14-06-2006,40387,MPR-R; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+136_S_0429,MCI,M,3,28,0,0.5,2,1,6415,63.3151,Y,85.73,F,24232,MRI,18-12-2006,66792,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+136_S_0429,MCI,M,3,25,5,0.5,3,6,9338,63.8137,Y,83.007,F,33724,MRI,18-06-2007,66806,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+136_S_0579,MCI,F,3,29,0,0.5,2,1,6605,66.0274,Y,71.21,F,24877,MRI,08-01-2007,67010,MPR-R; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+136_S_0579,MCI,F,3,29,1,0.5,0,0,4300,65.4986,Y,73.03,F,15952,MRI,29-06-2006,119734,MPR; GradWarp; B1 Correction; N3; Scaled_2,image volume,All,Both,Brain,native
+136_S_0579,MCI,F,3,29,1,0.5,0,0,4300,65.4986,Y,73.03,F,15952,MRI,29-06-2006,40410,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+136_S_0579,MCI,F,3,29,1,0.5,2,4,9422,66.4877,Y,72.12,F,33995,MRI,25-06-2007,67015,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+136_S_0695,MCI,M,3,24,0,0.5,2,2,8064,74.9726,Y,83.46,F,29253,MRI,03-04-2007,72587,MPR-R; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+136_S_0695,MCI,M,3,25,3,0.5,0,0,5167,74.4329,Y,86.18,F,19019,MRI,18-09-2006,119736,MPR; GradWarp; B1 Correction; N3; Scaled_2,image volume,All,Both,Brain,native
+136_S_0695,MCI,M,3,25,3,0.5,0,0,5167,74.4329,Y,86.18,F,19019,MRI,18-09-2006,70924,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+136_S_0695,MCI,M,3,19,8,0.5,3,9,11931,75.4301,Y,86.183,F,39345,MRI,17-09-2007,81463,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+136_S_0873,MCI,F,3,25,0,0.5,8,8,8444,78.6932,Y,46.72,F,30555,MRI,23-04-2007,89821,MPR-R; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+136_S_0873,MCI,F,3,23,8,0.5,8,9,13473,79.2027,Y,45.36,F,41982,MRI,26-10-2007,88174,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+136_S_0873,MCI,F,3,25,5,0.5,0,0,5325,78.137,Y,47.63,F,19616,MRI,02-10-2006,119737,MPR; GradWarp; N3; Scaled_2,image volume,All,Both,Brain,native
+136_S_0873,MCI,F,3,25,5,0.5,0,0,5325,78.137,Y,47.63,F,19616,MRI,02-10-2006,96178,MPR; GradWarp; N3; Scaled,image volume,All,Both,Brain,native
+136_S_0874,MCI,F,4,25,4,0.5,0,0,5785,66.1699,Y,74.39,F,22234,MRI,06-11-2006,40419,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+136_S_0874,MCI,F,4,29,0,0.5,1,4,9125,66.7479,Y,75.3,F,33049,MRI,05-06-2007,66815,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+136_S_0874,MCI,F,4,28,2,0.5,0,5,13747,67.2055,Y,73.94,F,42871,MRI,19-11-2007,85659,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+136_S_1227,MCI,F,3,28,0,0.5,2,4,11577,65.2192,Y,64.41,F,38553,MRI,27-08-2007,79075,MPR-R; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+136_S_1227,MCI,F,3,30,6,0.5,2,1,14934,65.7452,Y,65.771,F,46741,MRI,06-03-2008,99279,MPR-R; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+136_S_1227,MCI,F,3,29,5,0.5,0,0,7087,64.6658,Y,63.96,F,26399,MRI,06-02-2007,63838,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+137_S_0158,MCI,F,2,29,3,0.5,0,0,3061,80.5288,Y,69.85,F,11648,MRI,14-02-2006,45872,MPR; GradWarp; N3; Scaled,image volume,All,Both,Brain,native
+137_S_0158,MCI,F,2,30,0,0.5,2,2,5471,81.2,Y,70.31,F,20209,MRI,17-10-2006,42985,MPR; GradWarp; N3; Scaled,image volume,All,Both,Brain,native
+137_S_0158,MCI,F,2,29,2,0.5,0,2,8002,81.6438,Y,69.85,F,29050,MRI,28-03-2007,66199,MPR; GradWarp; N3; Scaled,image volume,All,Both,Brain,native
+137_S_0283,CN,M,3,30,0,0,0,0,8741,79.6055,Y,65.32,F,31798,MRI,03-05-2007,67027,MPR-R; GradWarp; N3; Scaled,image volume,All,Both,Brain,native
+137_S_0283,CN,M,3,28,0,0,0,0,3212,78.4712,Y,69.31,F,12218,MRI,15-03-2006,66428,MPR; GradWarp; N3; Scaled,image volume,All,Both,Brain,native
+137_S_0283,CN,M,3,29,0,0,0,0,5647,79.0986,Y,68.1,F,21356,MRI,30-10-2006,67275,MPR; GradWarp; N3; Scaled,image volume,All,Both,Brain,native
+137_S_0301,CN,F,3,28,1,0,0,0,3301,73.5699,Y,80.92,F,12563,MRI,30-03-2006,45881,MPR; GradWarp; N3; Scaled,image volume,All,Both,Brain,native
+137_S_0301,CN,F,3,30,0,0,0,0,5670,74.1589,Y,79.379,F,21513,MRI,31-10-2006,45894,MPR; GradWarp; N3; Scaled,image volume,All,Both,Brain,native
+137_S_0301,CN,F,3,28,0,0,0,0,8746,74.674,Y,77.564,F,31819,MRI,07-05-2007,89089,MPR; GradWarp; N3; Scaled,image volume,All,Both,Brain,native
+137_S_0366,AD,F,3,19,0,1,7,24,6288,57.2466,Y,85.73,F,23819,MRI,11-12-2006,45910,MPR-R; GradWarp; N3; Scaled,image volume,All,Both,Brain,native
+137_S_0366,AD,F,3,23,5,1,0,0,3790,56.6575,Y,85.73,F,14199,MRI,10-05-2006,46608,MPR; GradWarp; N3; Scaled,image volume,All,Both,Brain,native
+137_S_0366,AD,F,3,21,1,1,7,23,9369,57.7699,Y,81.65,F,33826,MRI,20-06-2007,66206,MPR; GradWarp; N3; Scaled,image volume,All,Both,Brain,native
+137_S_0443,MCI,M,3,28,0,0.5,0,0,4188,63.1479,Y,101.6,F,15548,MRI,15-06-2006,46622,MPR; GradWarp; N3; Scaled,image volume,All,Both,Brain,native
+137_S_0443,MCI,M,3,27,0,0.5,4,1,7363,63.8575,Y,100.24,F,27311,MRI,01-03-2007,66213,MPR; GradWarp; N3; Scaled,image volume,All,Both,Brain,native
+137_S_0443,MCI,M,3,29,0,0,0,1,10572,64.2959,Y,98.43,F,37005,MRI,08-08-2007,79268,MPR; GradWarp; N3; Scaled,image volume,All,Both,Brain,native
+137_S_0459,CN,M,3,30,5,0,0,0,3649,73.0329,Y,84.91,F,13737,MRI,25-04-2006,46629,MPR; GradWarp; N3; Scaled,image volume,All,Both,Brain,native
+137_S_0459,CN,M,3,29,0,0,0,0,5912,73.589,Y,85.9,F,22519,MRI,14-11-2006,42992,MPR; GradWarp; N3; Scaled,image volume,All,Both,Brain,native
+137_S_0459,CN,M,3,29,2,0.5,5,2,8912,74.0932,Y,87.09,F,32374,MRI,17-05-2007,89096,MPR; GradWarp; N3; Scaled,image volume,All,Both,Brain,native
+137_S_0481,MCI,M,3,24,2,0.5,0,0,3815,84.926,Y,73.936,F,14293,MRI,11-05-2006,46647,MPR-R; GradWarp; N3; Scaled,image volume,All,Both,Brain,native
+137_S_0481,MCI,M,3,22,0,0.5,1,0,6225,85.5014,Y,76.2,F,23576,MRI,07-12-2006,45920,MPR; GradWarp; N3; Scaled,image volume,All,Both,Brain,native
+137_S_0481,MCI,M,3,28,1,0.5,1,0,8981,85.9616,Y,74.84,F,32582,MRI,24-05-2007,89103,MPR; GradWarp; N3; Scaled,image volume,All,Both,Brain,native
+137_S_0631,MCI,M,3,21,2,1,8,16,10273,78.3534,Y,97.52,F,36258,MRI,24-07-2007,66230,MPR-R; GradWarp; N3; Scaled,image volume,All,Both,Brain,native
+137_S_0631,MCI,M,3,25,1,0.5,0,0,4199,77.2493,Y,106.141,F,15598,MRI,16-06-2006,46655,MPR; GradWarp; N3; Scaled,image volume,All,Both,Brain,native
+137_S_0631,MCI,M,3,22,0,1,4,11,6708,77.8384,Y,104.33,F,25196,MRI,17-01-2007,66220,MPR; GradWarp; N3; Scaled,image volume,All,Both,Brain,native
+137_S_0668,MCI,M,3,27,1,0.5,0,0,4708,73.5616,Y,82.554,F,17610,MRI,07-08-2006,43001,MPR; GradWarp; N3; Scaled,image volume,All,Both,Brain,native
+137_S_0668,MCI,M,3,29,0,0.5,8,2,7474,74.1452,Y,86.18,F,27700,MRI,08-03-2007,66234,MPR; GradWarp; N3; Scaled,image volume,All,Both,Brain,native
+137_S_0668,MCI,M,3,28,2,0.5,1,3,11920,74.6658,Y,84.82,F,39302,MRI,14-09-2007,81479,MPR; GradWarp; N3; Scaled,image volume,All,Both,Brain,native
+137_S_0669,MCI,M,3,28,1,0.5,0,0,11467,64.7534,Y,110.223,F,38408,MRI,27-08-2007,75128,MPR-R; GradWarp; N3; Scaled,image volume,All,Both,Brain,native
+137_S_0669,MCI,M,3,24,2,0.5,0,0,4551,63.6521,Y,105.687,F,17100,MRI,21-07-2006,43009,MPR; GradWarp; N3; Scaled,image volume,All,Both,Brain,native
+137_S_0669,MCI,M,3,29,0,0,2,0,7294,64.2548,Y,106.14,F,27107,MRI,26-02-2007,66241,MPR; GradWarp; N3; Scaled,image volume,All,Both,Brain,native
+137_S_0686,CN,M,2,29,1,0,0,0,4324,72.1233,Y,95.71,F,16048,MRI,03-07-2006,46668,MPR; GradWarp; N3; Scaled,image volume,All,Both,Brain,native
+137_S_0686,CN,M,2,29,0,0,0,0,7075,72.737,Y,92.53,F,26334,MRI,12-02-2007,66436,MPR; GradWarp; N3; Scaled,image volume,All,Both,Brain,native
+137_S_0686,CN,M,2,30,1,0,0,0,11098,73.2548,Y,88.45,F,37808,MRI,20-08-2007,74550,MPR; GradWarp; N3; Scaled,image volume,All,Both,Brain,native
+137_S_0722,MCI,M,3,26,0,0.5,0,0,4596,70.1973,Y,104.326,F,17295,MRI,26-07-2006,43022,MPR; GradWarp; N3; Scaled,image volume,All,Both,Brain,native
+137_S_0722,MCI,M,3,30,0,0.5,0,0,7343,70.7918,Y,103.87,F,27252,MRI,28-02-2007,66248,MPR; GradWarp; N3; Scaled,image volume,All,Both,Brain,native
+137_S_0722,MCI,M,3,28,0,0,0,0,11809,71.3233,Y,104.326,F,39043,MRI,10-09-2007,79085,MPR; GradWarp; N3; Scaled,image volume,All,Both,Brain,native
+137_S_0796,AD,M,3,26,0,0.5,11,14,8090,81.0466,Y,87.54,F,29339,MRI,05-04-2007,89671,MPR-R; GradWarp; N3; Scaled,image volume,All,Both,Brain,native
+137_S_0796,AD,M,3,26,1,0.5,0,0,4914,80.4247,Y,82.55,F,18077,MRI,21-08-2006,89979,MPR; GradWarp; N3; Scaled,image volume,All,Both,Brain,native
+137_S_0796,AD,M,3,26,0,1,7,14,13116,81.5562,Y,90.72,F,41091,MRI,08-10-2007,91210,MPR; GradWarp; N3; Scaled,image volume,All,Both,Brain,native
+137_S_0800,MCI,M,4,29,3,0.5,0,0,4813,74.1699,Y,74.389,F,17822,MRI,14-08-2006,43035,MPR; GradWarp; N3; Scaled,image volume,All,Both,Brain,native
+137_S_0800,MCI,M,4,28,0,0.5,6,6,7251,74.6959,Y,73.482,F,26960,MRI,22-02-2007,66255,MPR; GradWarp; N3; Scaled,image volume,All,Both,Brain,native
+137_S_0800,MCI,M,4,28,2,0.5,6,0,11861,75.2493,Y,74.843,F,39150,MRI,12-09-2007,79092,MPR; GradWarp; N3; Scaled,image volume,All,Both,Brain,native
+137_S_0825,MCI,M,3,28,2,0.5,0,0,5279,87.1205,Y,56.699,F,19451,MRI,28-09-2006,43048,MPR; GradWarp; N3; Scaled,image volume,All,Both,Brain,native
+137_S_0825,MCI,M,3,27,0,0.5,8,7,8413,87.6904,Y,129,F,30443,MRI,24-04-2007,66443,MPR; GradWarp; N3; Scaled,image volume,All,Both,Brain,native
+137_S_0825,MCI,M,3,27,2,0.5,3,8,13476,88.2055,Y,58.51,F,41988,MRI,29-10-2007,82721,MPR; GradWarp; N3; Scaled,image volume,All,Both,Brain,native
+137_S_0972,CN,M,3,30,0,0,0,0,6165,77.9753,Y,74.39,F,23389,MRI,04-12-2006,45933,MPR; GradWarp; N3; Scaled,image volume,All,Both,Brain,native
+137_S_0972,CN,M,3,27,0,0,0,0,9130,78.4767,Y,72.12,F,33059,MRI,05-06-2007,66262,MPR; GradWarp; N3; Scaled,image volume,All,Both,Brain,native
+137_S_0972,CN,M,3,30,0,0,0,0,13913,78.9753,Y,73.48,F,43428,MRI,04-12-2007,103629,MPR; GradWarp; N3; Scaled,image volume,All,Both,Brain,native
+137_S_0973,MCI,M,3,25,0,0.5,5,11,8962,77.4384,Y,69.85,F,32529,MRI,22-05-2007,83861,MPR-R; GradWarp; N3; Scaled,image volume,All,Both,Brain,native
+137_S_0973,MCI,M,3,28,0,0.5,0,0,5916,76.9233,Y,73.94,F,22528,MRI,15-11-2006,43060,MPR; GradWarp; N3; Scaled,image volume,All,Both,Brain,native
+137_S_0973,MCI,M,3,29,0,0.5,3,13,13853,77.9726,Y,70.31,F,43232,MRI,03-12-2007,86013,MPR; GradWarp; N3; Scaled,image volume,All,Both,Brain,native
+137_S_0994,MCI,F,3,27,1,0.5,0,0,5690,55.2055,Y,71.67,F,21634,MRI,01-11-2006,45943,MPR; GradWarp; N3; Scaled,image volume,All,Both,Brain,native
+137_S_0994,MCI,F,3,26,0,0.5,1,9,9128,55.7973,Y,70.76,F,33053,MRI,05-06-2007,87735,MPR; GradWarp; N3; Scaled,image volume,All,Both,Brain,native
+137_S_0994,MCI,F,3,25,3,0.5,2,7,13919,56.3014,Y,71.67,F,43448,MRI,06-12-2007,91224,MPR; GradWarp; N3; Scaled,image volume,All,Both,Brain,native
+137_S_1041,AD,M,4,22,1,0.5,0,0,5803,70.9726,Y,85,F,22310,MRI,09-11-2006,43071,MPR-R; GradWarp; N3; Scaled,image volume,All,Both,Brain,native
+137_S_1041,AD,M,4,17,0,1,7,19,9136,71.5452,Y,91.63,F,33081,MRI,06-06-2007,86630,MPR-R; GradWarp; N3; Scaled,image volume,All,Both,Brain,native
+137_S_1041,AD,M,4,15,1,1,7,23,13981,72.063,Y,97.52,F,43640,MRI,12-12-2007,86261,MPR; GradWarp; N3; Scaled,image volume,All,Both,Brain,native
+137_S_1414,MCI,M,3,28,0,0.5,1,0,14780,75.0411,Y,111.13,F,46192,MRI,26-02-2008,99141,MPR-R; GradWarp; N3; Scaled,image volume,All,Both,Brain,native
+137_S_1414,MCI,M,3,28,1,0.5,2,0,17604,75.5425,Y,109.77,F,56047,MRI,27-08-2008,121712,MPR; GradWarp; N3; Scaled,image volume,All,Both,Brain,native
+137_S_1426,MCI,M,3,26,1,0.5,0,0,11812,83.5562,Y,58.51,F,39052,MRI,07-09-2007,79102,MPR-R; GradWarp; N3; Scaled,image volume,All,Both,Brain,native
+137_S_1426,MCI,M,3,29,0,0.5,7,0,15458,84.1479,Y,59.42,F,48599,MRI,10-04-2008,103514,MPR-R; GradWarp; N3; Scaled,image volume,All,Both,Brain,native
+137_S_1426,MCI,M,3,30,1,0.5,7,0,18239,84.7041,Y,58.51,F,58135,MRI,30-10-2008,125941,MPR-R; GradWarp; N3; Scaled,image volume,All,Both,Brain,native
+141_S_0696,AD,F,3,25,1,0.5,0,0,4985,74.2301,Y,66.22,F,18373,MRI,25-08-2006,82738,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+141_S_0696,AD,F,3,21,0,0.5,3,5,8030,74.8082,Y,65.77,F,29153,MRI,24-03-2007,75512,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+141_S_0696,AD,F,3,22,0,1,14,20,13075,75.326,Y,59.87,F,40962,MRI,29-09-2007,81486,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+141_S_0717,CN,M,3,30,1,0,0,0,4994,76.2904,Y,83.01,F,18413,MRI,27-08-2006,98888,MPR-R; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+141_S_0717,CN,M,3,30,0,0,0,2,8253,76.9014,Y,91.63,F,29879,MRI,07-04-2007,75691,MPR-R; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+141_S_0717,CN,M,3,29,3,-1,2,0,12214,77.3589,Y,91.63,F,39851,MRI,21-09-2007,94917,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+141_S_0726,CN,M,3,30,0,0,0,1,7676,81.7014,Y,80.74,F,28237,MRI,13-03-2007,91248,MPR-R; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+141_S_0726,CN,M,3,28,2,0,0,0,4982,81.1589,Y,81.19,F,18354,MRI,27-08-2006,94824,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+141_S_0726,CN,M,3,0,0,-1,0,0,13717,82.3753,Y,0,F,42773,MRI,14-11-2007,85668,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+141_S_0767,CN,F,3,29,1,0,0,0,4979,73.2055,Y,77.34,F,18337,MRI,27-08-2006,47306,MPR-R; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+141_S_0767,CN,F,3,29,0,0,0,0,7413,73.7205,Y,80.29,F,27492,MRI,03-03-2007,122712,MPR-R; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+141_S_0767,CN,F,3,30,1,0,0,0,15242,74.2767,Y,78.02,F,47749,MRI,22-09-2007,124940,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+141_S_0790,AD,F,3,26,0,0.5,0,0,5104,83.4219,Y,81.19,F,18766,MRI,10-09-2006,91253,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+141_S_0790,AD,F,3,29,0,1,14,21,13106,84.0466,Y,83.01,F,41047,MRI,26-04-2007,81495,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+141_S_0790,AD,F,3,26,0,1,2,24,15176,84.6548,Y,81.65,F,47536,MRI,04-12-2007,102146,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+141_S_0810,CN,M,3,29,0,0,0,0,5488,83.5151,Y,82.55,F,20274,MRI,17-10-2006,47314,MPR-R; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+141_S_0810,CN,M,3,27,0,0,0,0,9032,84.1178,Y,82.55,F,32721,MRI,25-05-2007,91262,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+141_S_0810,CN,M,3,30,1,0,0,0,15977,84.6192,Y,82.55,F,50194,MRI,24-11-2007,107733,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+141_S_0851,MCI,F,3,24,1,0.5,0,7,13324,73.7123,Y,77.11,F,41581,MRI,13-10-2007,81508,MPR-R; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+141_S_0851,MCI,F,3,25,0,0.5,0,0,5256,72.6658,Y,70.31,F,19364,MRI,26-09-2006,47870,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+141_S_0851,MCI,F,3,20,0,0.5,0,2,8705,73.2521,Y,78.93,F,31669,MRI,28-04-2007,89678,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+141_S_0852,AD,F,3,24,1,0.5,0,0,5261,84.3945,Y,60.33,F,19395,MRI,25-09-2006,47744,MPR-R; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+141_S_0852,AD,F,3,28,0,0.5,3,18,8503,84.9753,Y,61.23,F,30800,MRI,25-04-2007,112461,MPR-R; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+141_S_0852,AD,F,3,22,0,2,2,23,13621,85.5096,Y,68.49,F,42448,MRI,06-11-2007,94926,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+141_S_0853,AD,M,4,26,1,0.5,0,0,4981,86.8301,Y,91.63,F,18348,MRI,27-08-2006,112292,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+141_S_0853,AD,M,4,23,0,0.5,4,18,7534,87.3671,Y,92.08,F,27836,MRI,11-03-2007,82748,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+141_S_0853,AD,M,4,21,0,-1,11,26,11927,87.8849,Y,89.81,F,39326,MRI,16-09-2007,81513,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+141_S_0915,MCI,F,3,26,0,1,0,13,13733,81.8411,Y,49.44,F,42828,MRI,17-11-2007,85683,MPR-R; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+141_S_0915,MCI,F,3,26,0,0.5,0,0,5972,80.8466,Y,47.63,F,22748,MRI,19-11-2006,48563,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+141_S_0915,MCI,F,3,27,0,0.5,2,15,9281,81.4082,Y,47.63,F,33555,MRI,12-06-2007,78645,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+141_S_0982,MCI,F,3,26,0,0.5,0,0,5946,80.3699,Y,86.18,F,22644,MRI,15-11-2006,47703,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+141_S_0982,MCI,F,3,27,0,0.5,2,11,9279,80.9479,Y,88.45,F,33549,MRI,14-06-2007,91271,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+141_S_0982,MCI,F,3,24,1,1,1,18,13679,81.3644,Y,88.9,F,42653,MRI,13-11-2007,91294,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+141_S_1004,MCI,F,3,24,0,1,0,20,9443,74.5452,Y,77.11,F,34054,MRI,18-05-2007,94935,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+141_S_1004,MCI,F,3,21,1,1,17,26,13731,75.0438,Y,75.75,F,42819,MRI,16-11-2007,85689,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+141_S_1004,MCI,F,3,27,4,0.5,0,0,6141,74.0877,Y,74.84,F,23305,MRI,02-12-2006,95705,MPR; GradWarp; N3; Scaled,image volume,All,Both,Brain,native
+141_S_1052,MCI,F,3,26,5,0.5,0,0,6026,69.1151,Y,57.38,F,22923,MRI,26-11-2006,47722,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+141_S_1052,MCI,F,3,28,0,0.5,0,0,9717,69.7452,Y,57.15,F,35178,MRI,14-07-2007,99145,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+141_S_1052,MCI,F,3,26,9,0,0,0,16323,70.2329,Y,58.97,F,51307,MRI,08-01-2008,121561,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+141_S_1094,CN,M,3,30,1,0,0,0,6138,76.0493,Y,85.73,F,23294,MRI,21-11-2006,47732,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+141_S_1094,CN,M,3,29,0,0,0,0,10519,76.7397,Y,88,F,36853,MRI,31-07-2007,98893,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+141_S_1094,CN,M,3,30,2,0,0,0,15974,77.211,Y,90.72,F,50174,MRI,19-01-2008,107952,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+141_S_1137,AD,F,3,24,1,0.5,0,0,6430,81.6329,Y,54.88,F,24301,MRI,19-12-2006,48581,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+141_S_1137,AD,F,3,20,0,2,8,27,9567,82.1507,Y,54.43,F,34530,MRI,26-06-2007,92415,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+141_S_1137,AD,F,3,17,2,2,18,28,15737,82.7836,Y,56.7,F,49443,MRI,12-02-2008,106232,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+141_S_1152,AD,F,3,23,2,1,0,0,6487,71.4959,Y,64.64,F,24487,MRI,26-12-2006,48590,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+141_S_1152,AD,F,3,27,0,0.5,5,16,10541,72.0493,Y,65.32,F,36918,MRI,16-07-2007,79410,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+141_S_1245,MCI,F,2,27,3,0.5,0,0,6871,71.3945,Y,43.54,F,25653,MRI,29-01-2007,48599,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+141_S_1245,MCI,F,2,30,0,0.5,2,0,11195,71.9507,Y,46.72,F,37967,MRI,20-08-2007,74748,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+141_S_1245,MCI,F,2,29,2,0,2,0,15888,72.6685,Y,48.08,F,49889,MRI,08-05-2008,106630,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+141_S_1255,MCI,F,3,28,0,0.5,0,0,6946,76.5616,Y,51.71,F,25887,MRI,03-02-2007,48608,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+141_S_1255,MCI,F,3,29,0,0.5,0,0,15652,77.7808,Y,54.88,F,49217,MRI,23-04-2008,105837,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+141_S_1255,MCI,F,3,29,0,0.5,6,6,15736,77.1836,Y,53.98,F,49437,MRI,18-09-2007,106222,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+941_S_1194,CN,M,3,30,5,0,0,0,6751,84.863,Y,87.54,F,25323,MRI,20-01-2007,63847,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+941_S_1194,CN,M,3,29,0,0,5,2,11330,85.4493,Y,88.9,F,38206,MRI,22-08-2007,75141,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+941_S_1194,CN,M,3,30,6,0,5,0,15248,86.0411,Y,90.26,F,47776,MRI,25-03-2008,103731,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+941_S_1197,CN,F,2,30,0,0,0,0,6753,82.4658,Y,62.14,F,25332,MRI,20-01-2007,66462,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+941_S_1197,CN,F,2,29,0,0,0,0,11673,83.074,Y,61.69,F,38742,MRI,30-08-2007,79115,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+941_S_1197,CN,F,2,28,0,0,0,1,16124,83.8,Y,61.69,F,50683,MRI,21-05-2008,108336,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+941_S_1202,CN,M,3,28,0,0,0,0,6880,77.5973,Y,84.37,F,25680,MRI,30-01-2007,63874,MPR-R; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+941_S_1202,CN,M,3,30,0,0,7,0,14922,78.6767,Y,83.01,F,46683,MRI,28-02-2008,105437,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+941_S_1311,MCI,M,4,27,0,0.5,3,16,12931,69.7836,Y,58.06,F,40710,MRI,27-09-2007,97341,MPR-R; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
+941_S_1311,MCI,M,4,29,1,0.5,0,0,7392,69.211,Y,62.6,F,27408,MRI,02-03-2007,97327,MPR; GradWarp; B1 Correction; N3; Scaled,image volume,All,Both,Brain,native
